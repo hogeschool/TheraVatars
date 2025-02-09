@@ -1,0 +1,280 @@
+;start_time;stop_time;speaker;sentence;sent;score;modified_sent
+1;32.738;33.068;Participant;thank;happy;0.864363431930542;happy
+3;42.088;42.518;Participant;mmm k;happy;0.5309107899665833;neutral
+6;54.328;55.758;Participant;i'm good thank;happy;0.9218927621841431;happy
+9;59.858;60.948;Participant;i'm los angeles;happy;0.43419110774993896;neutral
+11;63.538;64.108;Participant;oh great;happy;0.9672046899795532;happy
+13;67.388;69.858;Participant;live west los angeles west side;happy;0.7647501230239868;happy
+16;74.678;75.248;Participant;alright;neutral;0.5784096121788025;neutral
+17;76.398;76.708;Participant;xxx;unhappy;0.3608858585357666;neutral
+19;78.218;79.588;Participant;live alone;neutral;0.9026224613189697;neutral
+22;85.398;89.468;Participant;love i'm grew natural;happy;0.8449259400367737;happy
+25;95.388;98.598;Participant;weather um well weather;neutral;0.4618789553642273;neutral
+26;99.728;107.748;Participant;always good never never bad uh um there's always something rarely dull moment;happy;0.712610125541687;happy
+30;112.268;113.068;Participant;traffic;unhappy;0.7697816491127014;unhappy
+32;116.188;122.918;Participant;traffic horrible well probably traffic horrible almost major city hate traffic;unhappy;0.9967872500419617;unhappy
+35;126.698;135.338;Participant;really mean enough things going travel usually somewhere that's within driving distance;neutral;0.3955192267894745;neutral
+38;142.168;144.338;Participant;studied uh business;neutral;0.44727930426597595;neutral
+41;151.928;154.488;Participant;i've i've done years gone school one days i'll go back graduate school;neutral;0.5282373428344727;neutral
+44;161.458;166.668;Participant;dream job would work making lots money um;happy;0.675512969493866;happy
+45;168.078;172.408;Participant;know really dream job something;happy;0.9222346544265747;happy
+46;173.438;181.178;Participant;work terms get paid decently creative creative environment;happy;0.8729543089866638;happy
+49;185.978;186.758;Participant;um;unhappy;0.6340578198432922;unhappy
+50;188.908;206.318;Participant;know think matter finding right situation right eh people little conservative want want little tougher seems <se> know think situation's right think difficult;unhappy;0.6515129208564758;unhappy
+53;211.108;211.438;Participant;yep;happy;0.7483627796173096;happy
+55;213.688;217.938;Participant;work assistant <as> administrative assistant temp agency;neutral;0.7277966141700745;neutral
+56;219.488;222.118;Participant;basically get sent uh;unhappy;0.6077955365180969;unhappy
+58;223.118;224.508;Participant;desk jobs;neutral;0.6160296201705933;neutral
+60;227.338;234.948;Participant;um yes mean feel like feel like could know works;neutral;0.5247766375541687;neutral
+61;236.228;236.968;Participant;know yeah;happy;0.573300838470459;neutral
+64;242.008;244.708;Participant;i'm pretty close mean they're around;happy;0.5977560877799988;neutral
+67;257.418;259.938;Participant;um god really mad;unhappy;0.9934255480766296;unhappy
+68;261.208;266.238;Participant;stupid people basically anything annoy;unhappy;0.9744444489479065;unhappy
+69;267.068;267.798;Participant;um;unhappy;0.6340578198432922;unhappy
+70;269.098;278.598;Participant;that's basically <ba> that's big thing irritating stupid people <laughter> things provoke provoke reason;unhappy;0.6434981226921082;unhappy
+73;283.018;285.558;Participant;um what's good example;happy;0.523271381855011;neutral
+74;287.098;295.308;Participant;random people think funny sit get rise one specific;neutral;0.6353358030319214;neutral
+75;296.338;312.268;Participant;situation people think funny think they're generally sadistic think funny prod like like poking stick angry dog knowing know wanna push buttons reason;unhappy;0.7192201614379883;unhappy
+78;317.728;321.138;Participant;uh god;unhappy;0.7392137050628662;unhappy
+79;322.648;334.408;Participant;remember situations usually try remember <laughter> happens let go like past past tend look back;happy;0.43740642070770264;neutral
+82;339.648;340.278;Participant;mean;unhappy;0.7974792122840881;unhappy
+84;345.848;346.248;Participant;okay;neutral;0.6389974355697632;neutral
+86;349.438;354.278;Participant;god relax like run like go gym;happy;0.7689060568809509;happy
+87;355.648;362.088;Participant;listen music lot musician friends i'm usually around musicians;happy;0.7190992832183838;happy
+88;363.198;364.558;Participant;anything sort like;neutral;0.7115041017532349;neutral
+89;365.608;373.528;Participant;like everything punk rock art tattoos anything that's that's generally art creative;neutral;0.46887362003326416;neutral
+92;381.198;382.278;Participant;who's positive <pos>;happy;0.9753298163414001;happy
+93;384.158;392.208;Participant;think friends general seem seem well think they're inspiring;happy;0.7710942029953003;happy
+94;393.298;402.478;Participant;sometimes bit tough town like los angeles think everybody's go trying accomplish goals;unhappy;0.46367961168289185;neutral
+96;403.148;409.858;Participant;sometimes hard find someone who's gonna uplifting try inspiring;unhappy;0.39696407318115234;neutral
+97;410.938;416.708;Participant;really anybody particular people kind brought things;happy;0.5433539748191833;neutral
+99;436.528;443.208;Participant;know like hey instead instead hey good something like know i'm always looking new opportunities always point things maybe might could differently instead negative saying hey that's that's waste time;happy;0.7516898512840271;happy
+103;451.948;455.628;Participant;um guess depends talk;neutral;0.5252230167388916;neutral
+105;457.888;463.068;Participant;i'm i'm okay could probably work;neutral;0.8707702159881592;neutral
+106;464.048;464.648;Participant;um;unhappy;0.6340578198432922;unhappy
+107;465.538;469.728;Participant;know mean think better;unhappy;0.9115121364593506;unhappy
+109;484.988;489.698;Participant;well back point people provoking mean try blow steam let get skin usually try let get know guess temper guess depends handle stress;unhappy;0.9561624526977539;unhappy
+110;490.438;495.248;Participant;lately i've better think situation's little bit better;happy;0.8905721306800842;happy
+120;518.208;519.448;Participant;um;unhappy;0.6340578198432922;unhappy
+121;520.658;521.578;Participant;nothing major;neutral;0.9627536535263062;neutral
+122;533.708;540.138;Participant;mean maybe younger could've traveled could've worked towards something paid better job-wise mean things think point life always think like well coulda shoulda would've done know;unhappy;0.4767298996448517;neutral
+123;541.278;552.838;Participant;think that's natural anybody mean could could've become banker could've become lawyer doctor made ten times money make;happy;0.5110749006271362;neutral
+124;553.538;559.818;Participant;like law like medicine i'm meant;happy;0.49382075667381287;neutral
+127;563.948;564.398;Participant;yeah;happy;0.5558722615242004;neutral
+130;567.718;568.748;Participant;um think;neutral;0.41558241844177246;neutral
+131;569.918;570.658;Participant;think;neutral;0.39129459857940674;neutral
+132;571.488;573.608;Participant;life knew;neutral;0.4600157141685486;neutral
+133;574.368;590.858;Participant;there's lot things <ha> there's dislikes <laughter> likes kinda narrowed good good gonna work well gonna work well work well;happy;0.7317943572998047;happy
+134;591.348;595.318;Participant;kind kinda sorted list kind;neutral;0.5816015005111694;neutral
+135;596.498;598.648;Participant;mmm kind answered;happy;0.6180304884910583;happy
+137;616.738;631.878;Participant;think hard think real reality check think kind good thing 'cause sometimes trying conform things really fit make sense like trying shove round peg square square hole like matter try shove gonna go sometimes might well go path seems work better;neutral;0.6073158383369446;neutral
+140;642.398;646.818;Participant;memorable experiences um hmm;happy;0.7044910788536072;happy
+141;650.488;665.948;Participant;think really like one particular think think every day almost like memorable experience whether positive negative think everything getting fact;neutral;0.5575509071350098;neutral
+142;667.058;679.768;Participant;got job take care already almost like memorable experience maybe average person sounds stupid know think fact i'm able;happy;0.7723609209060669;happy
+143;680.588;688.298;Participant;i'm able get far life without like completely self-destructing already accomplishment feel like;happy;0.6030770540237427;happy
+144;689.468;690.498;Participant;i've gotten somewhere;happy;0.730725109577179;happy
+146;691.628;700.358;Participant;maybe maybe point average person might think like well millionaire know everybody millionaire;neutral;0.5542043447494507;neutral
+149;704.798;705.218;Participant;yeah;happy;0.5558722615242004;neutral
+151;714.098;715.168;Participant;um;unhappy;0.6340578198432922;unhappy
+152;716.108;718.408;Participant;last time really felt happy;happy;0.896396279335022;happy
+153;719.978;721.358;Participant;um;unhappy;0.6340578198432922;unhappy
+154;722.488;725.798;Participant;know i'm really someone who's like;happy;0.37316155433654785;neutral
+155;727.038;732.338;Participant;real high highs low lows mean hit lows mean;unhappy;0.5175298452377319;neutral
+156;733.908;742.868;Participant;know i'm usually pretty feel like i'm level person i'm pretty happy <ha> every day feel like accomplish one thing i'm pretty happy;happy;0.8210402131080627;happy
+157;743.548;745.318;Participant;guess answer question probably;neutral;0.8144392371177673;neutral
+158;746.718;753.888;Participant;mmm probably yesterday feel like i'm able accomplish something hey i'm happy;happy;0.9805421829223633;happy
+161;760.978;766.638;Participant;know really best friend mean well answer question generally friends;happy;0.6828739643096924;happy
+162;767.758;771.618;Participant;think would say i'm <ver> pretty outgoing i'm pretty;happy;0.5380527377128601;neutral
+163;772.648;773.438;Participant;determined;happy;0.46741610765457153;neutral
+164;774.748;782.358;Participant;i'm trying know try know try interact much possible i'm always networking much possible;happy;0.5211919546127319;neutral
+166;784.788;790.018;Participant;know guess that's basically think would describe;neutral;0.5492817759513855;neutral
+169;797.918;798.338;Participant;okay;neutral;0.6389974355697632;neutral
+171;800.678;801.278;Participant;problem;unhappy;0.9833221435546875;unhappy
+173;802.388;802.828;Participant;alright;neutral;0.5784096121788025;neutral
+174;803.458;803.828;Participant;bye;unhappy;0.5548577904701233;neutral
+180;59.93;61.36;Participant;i'm fine;happy;0.640795886516571;happy
+184;69.32;71.66;Participant;i'm los angeles california;neutral;0.536683976650238;neutral
+187;75.33;75.84;Participant;part;neutral;0.37106645107269287;neutral
+189;80.01;80.52;Participant;okay;neutral;0.6389974355697632;neutral
+191;84.597;88.767;Participant;um family's friends;happy;0.47328293323516846;neutral
+192;89.667;92.467;Participant;mixture people lot things;happy;0.4414467513561249;neutral
+195;100.487;101.847;Participant;early childhood education;neutral;0.5633558630943298;neutral
+197;107.096;109.929;Participant;right would love get back;unhappy;0.8474829792976379;unhappy
+199;114.227;116.357;Participant;love working kids seeing smile;happy;0.9702026844024658;happy
+201;120.647;121.087;Participant;um;unhappy;0.6340578198432922;unhappy
+202;123.3;131.57;Participant;guess goes back kid uh like happy playful guess transferred adult life;happy;0.9616010189056396;happy
+205;137.71;141.06;Participant;working kids school teacher capacity;happy;0.527692437171936;neutral
+207;146.077;150.912;Participant;yeah passion it'll always fun;happy;0.9655757546424866;happy
+210;157.883;158.951;Participant;i'm close;happy;0.7437689900398254;happy
+211;161.7;162.79;Participant;sometimes close;neutral;0.5800322890281677;neutral
+213;168.456;174.31;Participant;um four sisters one brother mom's side dad;happy;0.4893593192100525;neutral
+214;175.89;184.75;Participant;six brothers four sisters we're getting intertwined together that's say we're close sometimes;happy;0.7462638020515442;happy
+220;196.99;203.522;Participant;lot friends interact uh we're always different things that's say i'm;neutral;0.5035995841026306;neutral
+223;212.382;212.912;Participant;curse;unhappy;0.992005467414856;unhappy
+225;215.884;216.327;Participant;<laughter>;happy;0.9520724415779114;happy
+226;218.424;219.23;Participant;let;neutral;0.536784827709198;neutral
+229;230.012;232.032;Participant;couple days ago nephew;happy;0.48649507761001587;neutral
+230;234.212;235.202;Participant;call back;unhappy;0.4132998585700989;neutral
+233;242.087;249.601;Participant;um kinda mad 'cause set aside time spend blew call back;unhappy;0.9915064573287964;unhappy
+236;255.504;256.044;Participant;yeah know;happy;0.4658319056034088;neutral
+238;263.377;265.116;Participant;mm i'm okay;happy;0.5411759614944458;neutral
+242;278.45;279.47;Participant;mother passed;unhappy;0.7165310978889465;unhappy
+245;287.49;288.584;Participant;uh;unhappy;0.4728712737560272;neutral
+246;291.904;293.884;Participant;five years day;unhappy;0.3673976957798004;neutral
+249;297.604;298.954;Participant;getting better;happy;0.6858961582183838;happy
+250;300.72;301.898;Participant;time makes easier;happy;0.6160048842430115;happy
+253;312.745;313.279;Participant;lot;happy;0.3848084509372711;neutral
+254;314.448;318.694;Participant;'cause there's lot things make think daily basis;unhappy;0.37562307715415955;neutral
+257;326.694;329.438;Participant;anything uh driving particular;neutral;0.36214447021484375;neutral
+258;330.598;334.918;Participant;restaurant likes uh watching different t_v shows;happy;0.7510384321212769;happy
+259;336.07;338.73;Participant;anything could trigger memory;neutral;0.7613206505775452;neutral
+260;339.77;340.43;Participant;mom;unhappy;0.37845492362976074;neutral
+263;345.821;346.355;Participant;yesterday;happy;0.4423387050628662;neutral
+266;358.72;361.12;Participant;uh think good times;happy;0.9268630743026733;happy
+267;362.474;365.481;Participant;stay place long;neutral;0.6230893135070801;neutral
+268;367.63;369.54;Participant;go ahead think move;neutral;0.47156453132629395;neutral
+271;379.06;382.87;Participant;mm officially think might depressed;unhappy;0.978306233882904;unhappy
+273;391.91;394.96;Participant;well mean since mom passed kinda rough;unhappy;0.9830418825149536;unhappy
+274;396.35;397.35;Participant;um;unhappy;0.6340578198432922;unhappy
+275;398.99;404.787;Participant;job situation stable california lot well;happy;0.914989173412323;happy
+277;409.427;410.337;Participant;yeah;happy;0.5558722615242004;neutral
+279;414.817;417.657;Participant;kinda sort kinda;neutral;0.9222904443740845;neutral
+280;418.857;419.547;Participant;reserved;neutral;0.9817953705787659;neutral
+283;429.077;429.877;Participant;mm really;happy;0.5910861492156982;neutral
+286;440.967;441.997;Participant;pretty easy;neutral;0.5417391657829285;neutral
+288;450.045;451.287;Participant;grumpy irritable;unhappy;0.9959269165992737;unhappy
+289;453.517;454.197;Participant;fidgety;unhappy;0.9496656656265259;unhappy
+290;456.499;458.046;Participant;big ball nerves;unhappy;0.9830495119094849;unhappy
+293;467.53;468.47;Participant;uh mean;unhappy;0.8684082627296448;unhappy
+295;474.87;476.879;Participant;uh guess yeah like travel;happy;0.6552935838699341;happy
+297;480.869;482.0;Participant;meeting new people;happy;0.6501185297966003;happy
+298;483.45;486.11;Participant;different locations scenery;happy;0.39563462138175964;neutral
+299;487.38;491.75;Participant;uh different opportunities try something new new location;happy;0.6550639867782593;happy
+302;500.611;504.361;Participant;uh came back memphis three weeks ago;happy;0.4277035892009735;neutral
+303;506.431;510.741;Participant;go see family friends uh pretty nice got chance;happy;0.8429958820343018;happy
+305;512.941;513.841;Participant;see um;unhappy;0.3542690873146057;neutral
+306;514.984;515.62;Participant;something new;happy;0.6670517921447754;happy
+308;518.831;520.861;Participant;change <cha> change scenery;neutral;0.4752826690673828;neutral
+311;535.431;535.881;Participant;wow;happy;0.6875433325767517;happy
+312;537.86;540.59;Participant;stick plan;happy;0.49194443225860596;neutral
+313;541.76;544.38;Participant;veer left right go straight ahead;neutral;0.8311408758163452;neutral
+315;550.14;550.52;Participant;um;unhappy;0.6340578198432922;unhappy
+316;551.54;555.24;Participant;different circumstances life;unhappy;0.4455217123031616;neutral
+317;557.75;560.06;Participant;gradually pushed towards left right;neutral;0.5286273956298828;neutral
+319;567.89;568.5;Participant;every day;happy;0.42484021186828613;neutral
+321;574.04;576.93;Participant;uh relationships staying school;neutral;0.473247766494751;neutral
+322;578.53;579.22;Participant;um;unhappy;0.6340578198432922;unhappy
+323;582.76;585.7;Participant;missing great opportunities employers;unhappy;0.9485235214233398;unhappy
+326;596.52;597.99;Participant;um funny;happy;0.7989829182624817;happy
+327;598.8;599.38;Participant;loyal;happy;0.8280016779899597;happy
+328;601.55;602.91;Participant;spontaneous;neutral;0.5940124988555908;neutral
+329;604.36;605.38;Participant;life party;happy;0.9566887617111206;happy
+331;611.21;613.41;Participant;grew together community;happy;0.8431401252746582;happy
+332;614.79;617.01;Participant;went school together high school friends;neutral;0.5048878192901611;neutral
+334;625.68;627.35;Participant;uh big sister michelle;happy;0.49353936314582825;neutral
+335;628.72;630.32;Participant;uh friend troy;happy;0.6683719158172607;happy
+336;633.16;633.75;Participant;um;unhappy;0.6340578198432922;unhappy
+337;636.11;641.21;Participant;mean there's others two uh matter good bad they're always;unhappy;0.9414946436882019;unhappy
+338;642.39;643.48;Participant;corner;neutral;0.4696156680583954;neutral
+341;650.25;650.71;Participant;thank;happy;0.864363431930542;happy
+343;659.71;662.63;Participant;yesterday <yester> yesterday celebrated birthday;happy;0.8716555237770081;happy
+346;674.16;677.07;Participant;oh little small intimate;neutral;0.5923345685005188;neutral
+347;678.04;678.58;Participant;setting;neutral;0.522728443145752;neutral
+348;679.47;682.95;Participant;cooked meal family friends;happy;0.7731719017028809;happy
+349;683.87;686.99;Participant;listened music watched movie talked;happy;0.5431646704673767;neutral
+350;688.07;693.25;Participant;old days mom one union;happy;0.6465141773223877;happy
+351;694.91;696.14;Participant;nice evening;happy;0.9405484199523926;happy
+356;710.08;710.6;Participant;thank;happy;0.864363431930542;happy
+358;711.72;712.15;Participant;bye bye;neutral;0.49358922243118286;neutral
+361;50.686;51.836;Participant;okay 'bout;happy;0.5411670207977295;neutral
+363;56.586;57.996;Participant;california;happy;0.4165225923061371;neutral
+365;59.066;59.756;Participant;yeah;happy;0.5558722615242004;neutral
+367;63.396;67.696;Participant;oh well big broad there's lot lot um;unhappy;0.7368221879005432;unhappy
+368;72.766;77.626;Participant;um job opportunities states um pretty much big there's lot;happy;0.7837005257606506;happy
+371;83.006;96.466;Participant;traffic um maybe violence rate bad news even though know wanna know what's going environment still watch know look see what's going daily basis;unhappy;0.9950409531593323;unhappy
+374;100.346;107.136;Participant;sociology um two year degree liberal arts major sociology;neutral;0.4909874498844147;neutral
+377;110.926;113.656;Participant;i'm actually m_t_a bus operator;neutral;0.5169849991798401;neutral
+379;118.216;143.306;Participant;well since metro steady growing um dream job move company i'm actually start classes supervisory next week um 'cause look promote within company that's good thing there's lot opportunities metro take classes they'll pay tuition things nature;happy;0.935808539390564;happy
+382;146.156;146.846;Participant;thanks;happy;0.8150189518928528;happy
+384;148.596;167.066;Participant;well actually hard right easy take advantage right 'cause look promote within know since i'm already working that's good thing good go ahead take classes need interested go ahead move ladder soon possible;happy;0.4733724594116211;neutral
+387;173.236;174.446;Participant;mean i'm sorry;unhappy;0.9723358154296875;unhappy
+389;177.886;178.476;Participant;okay;neutral;0.6389974355697632;neutral
+391;180.696;188.076;Participant;read take long walk hot bath meditate close eyes sometimes;neutral;0.48065459728240967;neutral
+394;194.376;205.956;Participant;i'm pretty much good see bus operator run circumstances situations gotta remain calm still remain professional time;neutral;0.6589050889015198;neutral
+397;209.186;235.606;Participant;well look like goes mean comes experience know um something continuous basis usually somewhere line become good know look like i've driving years dealing public handle circumstances know treat people like wanna treated;unhappy;0.8848516941070557;unhappy
+399;240.566;242.916;Participant;i'm pretty good;happy;0.77191561460495;happy
+400;243.406;250.296;Participant;maybe younger know get older get wiser learn different things i'm still learning today;neutral;0.5969080924987793;neutral
+404;257.896;273.226;Participant;would say family know kids know even though know lot deaths around that's go that's part life experience know born gotta leave one day;neutral;0.6218273043632507;neutral
+405;274.206;279.706;Participant;kids keep know sane know love family;happy;0.669567883014679;happy
+407;282.896;284.116;Participant;thank;happy;0.864363431930542;happy
+409;286.786;288.106;Participant;<laughter>;happy;0.9520724415779114;happy
+411;291.596;306.586;Participant;um setting good examples know first teacher know wanna set positive good example kids think that's good thing starts home;happy;0.6270252466201782;happy
+414;311.866;313.326;Participant;well um;unhappy;0.3474890887737274;neutral
+415;314.506;343.856;Participant;first teacher kids one see daily basis wake whatever's taught home lookin' learning every day know whether home school know people kids tendency things see know mean try keep positive teach 'em good morals values get along people regardless race know different things nature;happy;0.4664272665977478;neutral
+418;347.426;354.696;Participant;um four half year old son seven year old daughter also twenty three year old;neutral;0.4335532486438751;neutral
+420;356.156;357.516;Participant;yeah i'm 'bout;happy;0.688658595085144;happy
+421;358.076;368.166;Participant;well daughter's pregnant boy three um little girls three grandkids um one way boy time;happy;0.6373054385185242;happy
+424;369.296;370.436;Participant;yeah thank;happy;0.9255881309509277;happy
+426;378.706;385.946;Participant;hardest thing well right i'm single parent makes hard alone know;unhappy;0.7439900040626526;unhappy
+428;386.676;410.386;Participant;expensive times know depends person's situation know whether help job know things nature help situation better hard know try know keep job keep food house know maintain support kids best way;neutral;0.5480566620826721;neutral
+431;419.696;422.736;Participant;kids period;unhappy;0.44440069794654846;neutral
+433;428.976;439.286;Participant;what's memorable i'm one family degree kinda like yeah kinda even though i'm baby ten kids know;happy;0.6312087774276733;happy
+435;439.796;452.616;Participant;i've always kept back mind even though everybody well pretty much whole family decent job i'm one degree kinda like gave pat back like know;neutral;0.7957565784454346;neutral
+436;453.216;459.386;Participant;know that's thing remember graduating know family support;happy;0.5866987705230713;neutral
+438;462.226;463.086;Participant;thank;happy;0.864363431930542;happy
+440;465.436;501.646;Participant;happy accomplished something know even though may much better high school diploma um working bachelor's degree ended bad car accident never went back got distracted know working time like moreso needed income um schooling time young parent know 'cause daughter seventeen like needed money support never went back feel like never late;happy;0.9840676188468933;happy
+441;502.156;509.496;Participant;feel like i'll take classes i'm metro help move ladder that's i'm starting class next week;happy;0.5825921297073364;neutral
+444;512.196;513.446;Participant;thank;happy;0.864363431930542;happy
+446;517.656;518.596;Participant;hm;happy;0.38063812255859375;neutral
+447;522.626;525.676;Participant;well advice would've gave;happy;0.4290810227394104;neutral
+448;526.306;531.606;Participant;probably young mother young age;neutral;0.5762468576431274;neutral
+449;532.826;533.886;Participant;probably would've;neutral;0.5237404108047485;neutral
+450;546.916;553.796;Participant;stayed school know let accident distract would've remained school probably kids early know um rather probably would've stayed school probably part time job something feel like um;unhappy;0.6253930330276489;unhappy
+451;554.516;562.826;Participant;education excellent thing person knowledge learning different things keeping mind open learning new ideas every day;happy;0.6069650053977966;happy
+452;563.286;577.666;Participant;think that's plus know anybody's shoes better selves know education maybe um maybe promote within company whatever case may help better career;happy;0.4485001564025879;neutral
+456;582.756;584.586;Participant;i'm quite sure um;happy;0.4612845480442047;neutral
+457;585.276;606.146;Participant;learn mistakes know time continue make ones feel like okay make mistake long something change know um like even though i'm going school late still i'm going know wanna better career wise;happy;0.5831575989723206;neutral
+459;609.306;609.876;Participant;yes;happy;0.7306628823280334;happy
+461;618.846;620.446;Participant;oldest daughter;happy;0.4161997437477112;neutral
+462;621.066;623.076;Participant;argument;unhappy;0.5742450952529907;neutral
+464;631.576;638.786;Participant;life living right things going um told needed make changes better situation;happy;0.7260757684707642;happy
+465;639.106;645.386;Participant;uh got argument know kids sometimes wanna hear know;unhappy;0.8801293969154358;unhappy
+466;646.136;650.876;Participant;hear stuff saying even though true;neutral;0.42586320638656616;neutral
+467;652.226;661.706;Participant;know well wanna hear know may going something wanna hear got argument;unhappy;0.528158962726593;neutral
+469;666.536;668.006;Participant;happened know told i'm;happy;0.3655349612236023;neutral
+471;668.336;669.216;Participant;i'm sorry;unhappy;0.9679573178291321;unhappy
+473;671.316;672.656;Participant;close;neutral;0.44541341066360474;neutral
+474;673.066;680.376;Participant;close situation daughter's needs make changes better life;happy;0.6747520565986633;happy
+475;681.466;682.886;Participant;I'll telling;happy;0.4853196442127228;neutral
+477;683.386;684.696;Participant;um;unhappy;0.6340578198432922;unhappy
+478;685.866;703.456;Participant;kinda like stubborn way know raised listen mom know mom's gonna tell nothing wrong i've telling years know different things kinda like talking wall opposite;unhappy;0.6829654574394226;unhappy
+480;704.066;719.316;Participant;regretting know 'cause like mom told know mom i'm opposite guess gotta bump head couple times get kinda like done told done left alone make change;unhappy;0.9723790287971497;unhappy
+482;723.636;740.456;Participant;frustrating like i'm talking wall hearing i'm like seem like taking forever change left individual whenever they're ready know mean person get tired something they'll make change may want happen;unhappy;0.9879412651062012;unhappy
+485;742.896;744.506;Participant;ball court know;happy;0.417773574590683;neutral
+486;745.066;746.836;Participant;much;happy;0.5220489501953125;neutral
+490;756.786;757.876;Participant;oh wow;happy;0.48834940791130066;neutral
+491;759.366;761.846;Participant;days um;unhappy;0.6118015050888062;unhappy
+492;774.556;795.456;Participant;since two little ones um kinda like trained go bed eight clock know gotta go school think important good night's rest kinda like <clears throat> kinda like gets ready next day know gonna feel rested type person day know 'cause everybody days whether they're good bad that's part life feel like good night's good good night's rest hopefully good day know;neutral;0.4758533239364624;neutral
+495;800.386;812.076;Participant;pretty much know need rest i'm driving bus dealing people know job stressful feel like i'm rested it'll help;neutral;0.5629751682281494;neutral
+497;816.806;821.326;Participant;like irritated tired um lazy;unhappy;0.9937640428543091;unhappy
+498;822.486;823.416;Participant;know;happy;0.407755583524704;neutral
+499;824.656;831.066;Participant;feel like wanna lay probably go sleep <laughter> get rest need <laughter>;unhappy;0.5267063975334167;neutral
+502;838.936;840.466;Participant;never thought know;neutral;0.647711992263794;neutral
+503;841.016;846.046;Participant;'cause like said know everybody moments never thought;neutral;0.3825354278087616;neutral
+504;847.126;847.636;Participant;hm;happy;0.38063812255859375;neutral
+512;868.486;880.676;Participant;really best friend person deal used work um would probably tell i'm um outgoing go getter;happy;0.7991975545883179;happy
+513;881.376;883.506;Participant;dependable responsible;neutral;0.4806949198246002;neutral
+514;884.736;886.606;Participant;i'm um people person;happy;0.5520132184028625;neutral
+515;888.076;891.006;Participant;get along others know i'm kinda like;neutral;0.5172366499900818;neutral
+516;892.956;893.816;Participant;um;unhappy;0.6340578198432922;unhappy
+517;897.276;899.316;Participant;leave good good mark;happy;0.9170588254928589;happy
+519;904.966;908.136;Participant;whether know know like like know um;neutral;0.4641943573951721;neutral
+520;909.166;913.586;Participant;probably say oh seems like nice young lady whatever know something like;happy;0.5115800499916077;neutral
+523;916.446;917.456;Participant;thank;happy;0.864363431930542;happy
+525;922.196;922.956;Participant;well;happy;0.7881081700325012;happy
+526;924.066;929.956;Participant;try stay happy i'd rather happy sad kids keep going know mean;happy;0.6150702834129333;happy
+527;931.136;937.506;Participant;especially go pick school hey mom know kinda make day;happy;0.8473663330078125;happy
+529;938.046;942.366;Participant;run know happy excited know mean;happy;0.9839974045753479;happy
+533;946.936;947.706;Participant;thank;happy;0.864363431930542;happy
+536;956.126;958.636;Participant;welcome good day;happy;0.9831753969192505;happy
+538;959.486;960.376;Participant;goodbye;neutral;0.608435332775116;neutral

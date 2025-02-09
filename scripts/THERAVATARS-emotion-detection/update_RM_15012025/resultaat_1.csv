@@ -1,0 +1,501 @@
+;start_time;stop_time;speaker;sentence;sent;score;modified_sent
+0;12.17;13.01;Participant; <synch>;neutral;0.47252988815307617;neutral
+2;54.18;54.72;Participant;yes;happy;0.7306618690490723;happy
+4;63.015;64.795;Participant;spectacular this is an interesting experiment;happy;0.5841096043586731;neutral
+6;67.68;68.07;Participant;<laughter>;happy;0.9520729780197144;happy
+8;70.99;73.68;Participant;uh i'm from middle of nowhere iowa;neutral;0.5224298238754272;neutral
+10;83.02;85.85;Participant;<sigh> uh may second of two thousand seven so exactly five years six years ago;unhappy;0.9871323704719543;unhappy
+12;87.91;89.88;Participant;um infrequently like once every couple years;neutral;0.6804251670837402;neutral
+14;104.61;105.56;Participant;uh the weather exists so it's more extreme and then  it's rather less exciting a lot less colorful;unhappy;0.9629316926002502;unhappy
+16;108.53;111.59;Participant;uh winter in minnesota <laughter>;happy;0.5009575486183167;neutral
+18;128.155;129.545;Participant;uh it took approximately the drive in that's that's about all it took the lights uh the lights took care of the rest;neutral;0.52588951587677;neutral
+20;146.905;152.925;Participant;uh i really love that it's a giant concrete playground at nighttime so that bycicles uh have free rein of the streets i like all the art i love the fact that there's so many different kinds of culture jammed all together and that if you look hard enough you can find anything you really want here;happy;0.9506135582923889;happy
+22;166.61;168.22;Participant;oh you know the traffic <sigh> the exceedingly high cost of living uh yeah those are those are my big beefs;unhappy;0.9945496916770935;unhappy
+24;180.61;181.28;Participant;uh not nearly as much as i would like to i've done a little bit;unhappy;0.9531291127204895;unhappy
+26;197.1;200.45;Participant;uh i like not knowing exactly how things are gonna go i like the fact that it forces me to uh deal with people to deal with situations in ways that i normally wouldn't have to;happy;0.6742668151855469;happy
+28;213.97;219.87;Participant;uh last year i got to hang out in san marcos for a little bit after i split up with my ex and then after san marcos i went back to iowa for a bunch of family stuff and then i brought my little brother to los angeles;unhappy;0.3761105239391327;neutral
+30;222.44;223.02;Participant;<laughter>;happy;0.9520729780197144;happy
+32;272.64;277.36;Participant;uh last week managed to go on a bike ride for cyclavia scrubbed_entry as a <laughter> he was basically a rolling green light the entire way down venice boulevard and so he made he made a bunch of like national news and he was all over the place but the rest of us as his support group riding around on tall bikes and stuff the we didn't bat an eye we didn't blink because this is this is normal for our friends that wasn't even the most absurd thing he's done lately that was just a a happy normal sunday but our group of friends is so unusual that a normal sunday for us is extreme for everyone else;happy;0.9335467219352722;happy
+34;283.37;284.96;Participant;<laughter>;happy;0.9520729780197144;happy
+36;288.4;293.38;Participant;i used to be an introvert but definitely an extrovert the last few years thank you los angeles;happy;0.7161262035369873;happy
+38;312.595;315.555;Participant;um <clears throat> once i found the right group of friends it was easy to be social it it drew me to be social extroverted even outgoing bombastic for the first time and it stuck;happy;0.5605656504631042;neutral
+40;345.87;348.84;Participant;um if i weren't already the most relaxed guy already i would probably do things but when i'm really stressed out i i do all sorts of stuff it um usually i try to enlist my friends to help me do an art project;unhappy;0.7893486022949219;unhappy
+42;354.67;357.62;Participant;uh what temper <laughter>;happy;0.5315317511558533;neutral
+44;362.8;369.41;Participant;uh scrubbed_entry;neutral;0.5382806062698364;neutral
+46;380.645;382.085;Participant;um <laughter> panicked 'cause i really wanted to make him not hate me and i mostly failed;unhappy;0.9675338268280029;unhappy
+48;391.36;392.69;Participant;uh hard on him i mostly uh mostly got by with a couple of scrapes on my ego;unhappy;0.9471761584281921;unhappy
+50;421.66;423.07;Participant;uh when  when that all went down i tried to to talk to him but i got distracted for the very first time that day and so instead of having my <sigh> verbal gloves up i managed to take a whole bunch of words to the side of the head and fall over a trash can it was not my most graceful moment;unhappy;0.9709417819976807;unhappy
+52;436.9;439.27;Participant;uh i feel guilty about lots of stuff um i feel guilty about eating more often than anything else;unhappy;0.7431032061576843;unhappy
+54;442.06;447.37;Participant;'cause i really love junk food it's really good i have very little food willpower 'cause i used to be a fat guy;happy;0.3620070815086365;neutral
+56;480.195;481.345;Participant;i'm not sure what the hardest decision i ever had to make was uh made a lot of hard decisions i guess <sigh> it was pretty hard to leave los angeles after my ex and my best friend did a whole bunch of nasty stuff but it wasn't even that hard 'cause it pushed me to do it so it's a tricky question madam;neutral;0.5005341172218323;neutral
+58;487.77;491.42;Participant;uh oh you know broken collarbone severe pain get surgery on it it all seemed like it made sense at the time;unhappy;0.8260093927383423;unhappy
+60;506.27;511.94;Participant;<laughter> mm no my memories are important i have lived a spoiled blessed life and if i changed anything then it wouldn't be the same universe i like this universe;happy;0.879784345626831;happy
+62;514.68;515.38;Participant;<laughter>;happy;0.9520729780197144;happy
+64;534.27;540.16;Participant;uh my little brother lives here he's awesome he's actually right outside waiting for me uh my mom is crazy my dad is crazy everyone else is crazy i'm pretty crazy uh but since most of the rest of them live so far away don't really have to deal with them too much relationship is positive and sparce;happy;0.9610270857810974;happy
+66;551.965;554.035;Participant;uh jackrabbit's been a pretty positive influence on me lately she is a magical creature;happy;0.9738579392433167;happy
+68;607.58;609.83;Participant;uh well there's the part where she's intensely physically beautiful there's the part where she manages to hit me with the best inspiration words there's the part where she actually works on the exact things that make me excited there's the part where she pops in and out of my life at the exact right instance and then there's the part where she is a hundred percent kind and caring all the time all of those things are really nice but then when you add to that and compound it with the fact that she does this all without wanting anything in return i don't know that's <sigh> smitten <laughter>;happy;0.9394203424453735;happy
+70;624.3;627.02;Participant;uh <laughter> what a funny question how do i know them as though she's multiple people how did you know uh i know her through my bicycle friends <sigh>;unhappy;0.6146514415740967;unhappy
+72;645.67;648.55;Participant;uh the hard part is going to bed but as soon as i get to to sleepland i'm pretty much there until an earthquake uh hits so i i get to sleep poorly but then i'm a pro at it so it doesn't matter;unhappy;0.7732318639755249;unhappy
+74;652.155;661.375;Participant;<deep breath> less verbose and that's about it my dark circles get slightly larger and i'm pretty much the exact same dude because i've been doing it most of my life;neutral;0.6715281009674072;neutral
+76;666.27;669.52;Participant;uh so stoked that i might as well be on fire;happy;0.9883064031600952;happy
+78;705.42;710.49;Participant;um mm because the universe in its infinite uh i suppose the word is sardonic sense of humor uh has managed to convince me of the reality of magic in the arthur c clark sense uh so as a fortunate and <cough> vaguely aware being eh it's my privilege to get to enjoy more time like this;happy;0.828208327293396;happy
+80;730.385;732.945;Participant;uh yeah uh my excitement is increasing at an almost exponential rate and i'm feeling more and more inspired all the time if i could just work on the motivation i'd be set;happy;0.9554874300956726;happy
+82;739.06;742.01;Participant;mm not since you asked me on the form a little while ago no;unhappy;0.49441879987716675;neutral
+84;744.81;748.41;Participant;uh no i used to think i had it but who knows at this point that was awhile ago;unhappy;0.7159630060195923;unhappy
+86;762.23;767.6;Participant;uh i was very unhappy with most of my life for a very long time and then i moved to los angeles and started having fun mm and then that's uh yeah the rest is ancient history;unhappy;0.964231014251709;unhappy
+88;795.53;798.7;Participant;um twenty thirteen <laughter> uh <sigh> working on my shoes this morning was really nice doodling uh an art project that all my friends helped and put on that's that was really nice it's a nice feeling;happy;0.8288273811340332;happy
+90;812.745;816.325;Participant;<laughter> <sigh> that's a very good question i'm not actually sure i'll ask him later today though;happy;0.5397505760192871;neutral
+92;846.34;848.59;Participant;um i guess i'm enthusiastic i am thesauric and i am <sigh> i'm gonna have to say highly analytical <laughter>;happy;0.9513057470321655;happy
+94;856.1;860.85;Participant;uh it'd be nice if i could get my super powers back that'd be pretty cool;unhappy;0.9072977304458618;unhappy
+96;877.79;880.39;Participant;uh like turning on some of the fancier finely tuned and delicate machinery that chinese medicine has clued me into inside myself <laughter>;happy;0.9530267715454102;happy
+98;901.63;901.86;Participant;uh that's a really tough one i think the thing that i'm most proud of would probably be <sigh> you know i'm not actually sure <laughter>;happy;0.6245312690734863;happy
+100;903.89;905.74;Participant;oh all sorts of stuff but i'm working on that;unhappy;0.5018896460533142;neutral
+102;913.81;916.68;Participant;<clears throat> <deep breath> don't masturbate so much <laughter>;unhappy;0.6388176083564758;unhappy
+104;927.635;931.065;Participant;uh jackrabbit really bad puns uh and dessert;unhappy;0.9591118693351746;unhappy
+106;936.94;938.985;Participant;<laughter>;happy;0.9520729780197144;happy
+108;939.255;939.955;Participant;no problem;neutral;0.6561540365219116;neutral
+110;941.18;941.69;Participant;bye ellie;unhappy;0.44529739022254944;neutral
+111;6.02;7.05;Participant; [syncing];neutral;0.45683109760284424;neutral
+113;82.81;83.22;Participant;yes;happy;0.7306618690490723;happy
+115;88.04;89.22;Participant;i'm a little nervous;unhappy;0.8814635872840881;unhappy
+117;91.915;93.295;Participant;mm this is different;unhappy;0.4890558421611786;neutral
+119;99.555;100.435;Participant;california;happy;0.41652143001556396;neutral
+121;101.855;102.535;Participant;yes;happy;0.7306618690490723;happy
+123;107.09;108.43;Participant;i like the beach;happy;0.8565691113471985;happy
+125;118.0;118.83;Participant;um the weather mm mm;unhappy;0.8552193641662598;unhappy
+127;122.89;125.19;Participant;so many people [laughter];happy;0.8820790648460388;happy
+129;126.79;127.38;Participant;yeah;happy;0.5558701753616333;neutral
+131;134.82;135.98;Participant;what do you mean what do i do now;unhappy;0.43772488832473755;neutral
+133;139.595;141.035;Participant;i don't know right now;neutral;0.5803328156471252;neutral
+135;147.995;149.185;Participant;um i went through nursing;neutral;0.3993019759654999;neutral
+137;151.925;152.605;Participant;mhm;neutral;0.41290226578712463;neutral
+139;154.91;155.52;Participant;yes;happy;0.7306618690490723;happy
+141;158.685;159.455;Participant;no;neutral;0.5887434482574463;neutral
+143;162.91;163.88;Participant;about nursing;neutral;0.44954225420951843;neutral
+145;167.38;172.195;Participant;that's a great field to be in if you have the heart the passion for caring for people;happy;0.5693559646606445;neutral
+147;174.85;175.74;Participant;my mother;happy;0.45774832367897034;neutral
+149;178.095;178.735;Participant;yeah;happy;0.5558701753616333;neutral
+151;183.735;187.875;Participant;right now uh it's we're we're close i have a pretty close family;happy;0.6972465515136719;happy
+153;189.575;190.075;Participant;mhm;neutral;0.41290226578712463;neutral
+155;195.54;196.63;Participant;mm what do you mean;unhappy;0.5212330222129822;neutral
+157;201.055;201.595;Participant;okay;neutral;0.638998806476593;neutral
+159;208.14;210.62;Participant;i like to read and i like watching some television;happy;0.4756068289279938;neutral
+161;213.21;213.83;Participant;yeah;happy;0.5558701753616333;neutral
+163;218.845;221.095;Participant;i think i'm very good at controlling it;neutral;0.5587537884712219;neutral
+165;228.95;230.32;Participant;i i can't remember the last time i had an argument;unhappy;0.6021931171417236;unhappy
+167;252.225;253.525;Participant;mm i'm not for sure what i do when i'm really annoyed i think i get i don't know walk a lot i i'm not for sure when i'm annoyed because i have different reactions to whatever's annoying me;unhappy;0.8066689968109131;unhappy
+169;254.6;255.05;Participant;<laughter>;happy;0.9520729780197144;happy
+171;255.43;255.83;Participant;mhm;neutral;0.41290226578712463;neutral
+173;275.24;275.93;Participant;like mad well let me see mad is a hell of a word for me to be mad it means like when i'm mad it's it's uncontrollable when i'm mad;unhappy;0.9596351385116577;unhappy
+175;277.43;277.91;Participant;mhm;neutral;0.41290226578712463;neutral
+177;285.13;286.64;Participant;i don't have a best friend;unhappy;0.7119659781455994;unhappy
+179;292.21;293.88;Participant;i don't really know now;neutral;0.6366379261016846;neutral
+181;303.555;304.365;Participant;my mother;happy;0.45774832367897034;neutral
+183;307.41;308.05;Participant;mhm;neutral;0.41290226578712463;neutral
+185;309.925;310.875;Participant;about my mother;unhappy;0.41230446100234985;neutral
+187;321.025;321.635;Participant;my mother was a beautiful woman and she had great values instilled in us when raising me yeah;happy;0.6744334697723389;happy
+189;333.087;335.457;Participant;values are like well good one thing is like my mother cooked and that was a valuable thing to me because she taught me to cook so that was very valuable honesty;happy;0.7339353561401367;happy
+191;339.367;339.977;Participant;mhm;neutral;0.41290226578712463;neutral
+193;343.937;344.917;Participant;about my mother;unhappy;0.41230446100234985;neutral
+195;347.722;349.442;Participant;well she's no longer living;unhappy;0.7418162822723389;unhappy
+197;350.977;351.467;Participant;mhm;neutral;0.41290226578712463;neutral
+199;358.322;359.112;Participant;excuse me;unhappy;0.7889286279678345;unhappy
+201;364.822;367.052;Participant;mm changes in my behavior;unhappy;0.3661547303199768;neutral
+203;370.417;371.927;Participant;mm since i've been here;neutral;0.3375888466835022;neutral
+205;381.222;382.322;Participant;i don't i i think a little uncomfortable yeah it's a little strange;unhappy;0.991561233997345;unhappy
+207;386.602;388.602;Participant;how i've been feeling lately a little uneasy;unhappy;0.9742388129234314;unhappy
+209;394.312;396.602;Participant;because of my experience the things i went through have been going through;unhappy;0.8259479403495789;unhappy
+211;403.702;410.002;Participant;i was raped and sodomized and they kept a gun to my head and cut my hair so i've been going through a hell of a thing lately;unhappy;0.9897150993347168;unhappy
+213;412.747;413.917;Participant;yes it is;happy;0.6185674667358398;happy
+215;419.532;421.882;Participant;i cope it's it's difficult but i do cope;neutral;0.5551400780677795;neutral
+217;423.692;424.432;Participant;mhm;neutral;0.41290226578712463;neutral
+219;430.807;432.007;Participant;it's not easy for me to sleep to get a good night's sleep;unhappy;0.951396644115448;unhappy
+221;435.817;436.557;Participant;excuse me;unhappy;0.7889286279678345;unhappy
+223;443.942;448.847;Participant;i don't know maybe sluggish maybe sometimes i can be more irritable if i don't sleep well i don't sleep well that often;unhappy;0.8453396558761597;unhappy
+225;455.137;456.757;Participant;yes that's what i have been diagnosed;unhappy;0.49339863657951355;neutral
+227;459.822;460.772;Participant;a few years ago;neutral;0.4352058470249176;neutral
+229;466.357;469.387;Participant;because i wanted to get revenge on the guys that raped me;unhappy;0.6733104586601257;unhappy
+231;475.667;477.417;Participant;no but i'm gonna go back;unhappy;0.7786082625389099;unhappy
+233;477.692;478.392;Participant;excuse me;unhappy;0.7889286279678345;unhappy
+235;483.037;483.797;Participant;i thought i was better i thought;unhappy;0.6316910982131958;unhappy
+237;488.572;490.762;Participant;i knew i had a problem but i didn't know what it was;unhappy;0.8786553740501404;unhappy
+239;504.892;505.982;Participant;as far as what i didn't sleep i didn't eat i had nightmares i still have them;unhappy;0.9779782891273499;unhappy
+241;513.022;515.877;Participant;i was just really [real] afraid of uh really afraid i was not avoiding it;unhappy;0.9029747247695923;unhappy
+243;524.109;525.719;Participant;as far as what disturbing thoughts like what;unhappy;0.7010208368301392;unhappy
+245;530.324;533.974;Participant;of the things that's happened to me was disturbing [di] are disturbing thoughts;unhappy;0.9585745334625244;unhappy
+247;537.409;538.054;Participant;mhm;neutral;0.41290226578712463;neutral
+249;539.674;540.434;Participant;sometimes;unhappy;0.5502340793609619;neutral
+251;555.164;557.354;Participant;if i see four men together with hoods on it's i have it triggered by that sometimes when i have to go upstairs it's a trigger because of the of what happened they took me upstairs;unhappy;0.7009321451187134;unhappy
+253;560.619;561.529;Participant;yes ma'am;happy;0.6826791763305664;happy
+255;565.849;566.499;Participant;excuse me;unhappy;0.7889286279678345;unhappy
+257;570.049;571.179;Participant;therapy is what;neutral;0.49964800477027893;neutral
+259;587.359;588.499;Participant;i haven't been to therapy in a while but i've noticed how to calm myself down when i get um afraid and that's about it;neutral;0.6833329200744629;neutral
+261;590.519;591.159;Participant;mhm;neutral;0.41290226578712463;neutral
+263;599.654;601.284;Participant;it helped a lot of things that happened in my past i didn't realize it was deep down inside me still;neutral;0.49410468339920044;neutral
+265;613.014;615.714;Participant;i'm like just jest you know just day by day just making it i think;neutral;0.7674470543861389;neutral
+267;623.324;624.074;Participant;music;happy;0.6551672220230103;happy
+269;628.709;629.289;Participant;yeah;happy;0.5558701753616333;neutral
+271;642.164;642.794;Participant;cooking the other day cooking;neutral;0.5920082330703735;neutral
+273;650.949;651.849;Participant;my son;happy;0.6202106475830078;happy
+275;661.489;662.849;Participant;i only have one son and he's a beautiful child;happy;0.8242331743240356;happy
+277;666.734;667.374;Participant;mhm;neutral;0.41290226578712463;neutral
+279;669.784;671.899;Participant;no it's not [laughter];unhappy;0.6211799383163452;unhappy
+281;679.514;681.174;Participant;um i think decision making;neutral;0.4276959300041199;neutral
+283;694.1;696.89;Participant;well some of the things that he's asked to like i'm not into tattoos i don't like tattoos and and he does;unhappy;0.8702394962310791;unhappy
+285;704.845;706.625;Participant;and well there's a lot of different things;unhappy;0.41519224643707275;neutral
+287;720.88;725.775;Participant;the best thing about being a parent is giving life to my son [laughter] and seeing them grow up in joy in their lives is going on it's a good thing;happy;0.9658133387565613;happy
+289;732.495;733.105;Participant;no;neutral;0.5887434482574463;neutral
+291;750.81;751.85;Participant;god what advice would i give myself i don't really know i really don't know;unhappy;0.4400702118873596;neutral
+293;757.065;758.185;Participant;as far as what;neutral;0.4133228063583374;neutral
+295;767.15;770.235;Participant;my memorable experience i i could say when graduating it was a good experience;happy;0.8082229495048523;happy
+297;771.425;771.895;Participant;yes;happy;0.7306618690490723;happy
+299;774.525;776.515;Participant;great when i graduated great;happy;0.9486290216445923;happy
+301;782.605;783.455;Participant;to graduate from high school it wasn't hard;happy;0.5236059427261353;neutral
+303;785.38;786.54;Participant;no it wasn't hard i enjoyed school;happy;0.8699632883071899;happy
+305;797.485;798.825;Participant;i don't remember;neutral;0.8361577987670898;neutral
+307;809.43;809.82;Participant;mhm;neutral;0.41290226578712463;neutral
+309;811.33;812.03;Participant;bye;unhappy;0.5548562407493591;neutral
+310;7.64;8.5;Participant; <synch>;neutral;0.47252988815307617;neutral
+312;47.875;48.555;Participant;yes;happy;0.7306618690490723;happy
+314;53.33;54.87;Participant;i'm doing well thank you;happy;0.9753732085227966;happy
+316;59.1;61.74;Participant;from los <l> los angeles;happy;0.38154518604278564;neutral
+318;67.32;70.24;Participant;mm sports outdoor sports mainly;happy;0.6688756346702576;happy
+320;73.535;78.175;Participant;surfing uh snowboarding mountain biking rock climbing;happy;0.6072558760643005;happy
+322;85.185;86.015;Participant;traffic;unhappy;0.7697803378105164;unhappy
+324;97.18;97.96;Participant;yes;happy;0.7306618690490723;happy
+326;104.13;106.55;Participant;experiencing different cultures;happy;0.47741931676864624;neutral
+328;133.4;141.03;Participant;uh well uh i love going to mexico and uh eh it's so much diffferent from california and western culture so to speak i know mexico is a western civilization but uh the uh the level of of entertainment and the level of education is so much different that uh eh they're like two different worlds;happy;0.831770122051239;happy
+330;147.76;148.89;Participant;traveling you mean;happy;0.4973004460334778;neutral
+332;174.93;180.37;Participant;uh i would have to say going to an island off the coast of figi the name is tavarua and it's a very small island you can walk around it in thirty minutes thirty or forty minutes and uh it's a place where you go to go surfing and it it is an incredible uh visually incredible and uh experientially incredible place;happy;0.7734617590904236;happy
+334;185.12;186.51;Participant;i studied biology;neutral;0.4185260534286499;neutral
+336;191.25;199.92;Participant;uh i was pushed from behind by my father who was a medical doctor and uh he wanted me to become a medical doctor also;happy;0.4307149052619934;neutral
+338;205.69;207.33;Participant;not at all i'm working in areas of business now;neutral;0.7755477428436279;neutral
+340;210.52;211.51;Participant;yes i am;happy;0.8356812596321106;happy
+342;214.79;218.23;Participant;my dream job would be to be a missionary;happy;0.6395298838615417;happy
+344;221.3;221.69;Participant;yes;happy;0.7306618690490723;happy
+346;252.92;265.01;Participant;my father's initial objective when he became an m_d was to become a missionary and uh he's a very generous person and i think i am too i i i got that from him uh hereditarily but uh i would like to help people eh and i don't think being a doctor is helping people i really don't i think it's uh disingenuous to say you're helping people while you're stuffing wads of cash into your pocket i would like to be uh building people homes and uh helping them find fresh water sources things like that if i could afford to travel to remote places like that;unhappy;0.5070552229881287;neutral
+348;280.05;281.24;Participant;i exercise;neutral;0.4902963638305664;neutral
+350;294.26;296.31;Participant;i think i'm pretty good at it uh uh i think i'm pretty effective at it;happy;0.5121508836746216;neutral
+352;305.4;310.27;Participant;it was probably two days ago it was my girlfriend and it was about her uh lack of consideration;unhappy;0.9253119826316833;unhappy
+354;316.71;317.88;Participant;um i felt frustrated;unhappy;0.9914706349372864;unhappy
+356;374.18;377.2;Participant;hmm a situation which i wished i could handle differently um i eh in my later years i would say eh i don't have many regrets in my younger years i used to uh be snubbed by people and i would keep my mouth shut and i wouldn't say anything i would not express my displeasure of their actions or their behavior i would just keep my mouth closed and internalize my feelings i've learned that that is so wrong and so in the probably the last fifteen to twenty years i have made it a point to vocalize my displeasure with someone's actions right away and that uh takes care of the anger immediately;unhappy;0.9523765444755554;unhappy
+358;395.19;397.39;Participant;yes it <i> it depends what you mean by trouble uh i think eh all the way around once you take the beginning <benning> the beginning to the end uh it diffuses trouble rather than prolongs or protracts the trouble;neutral;0.6859325170516968;neutral
+360;432.6;433.33;Participant;uh going back it would be to not to pursue uh medicine like my father wanted we argued uh at length for many months and years about this and uh finally i prevailed and uh i didn't go to i didn't go that route uh but that was probably the most uh uh difficult period in my life;unhappy;0.889188826084137;unhappy
+362;460.89;464.06;Participant;mm there was a time when i wished i could erase a female interactions uh girlfriends and and their uh betrayals uh but now i realize that keeping those memories make me who i am today and and dealing with them defines who i am today;unhappy;0.5596200227737427;neutral
+364;508.47;511.97;Participant;uh my parents are deceased i had very good relationships with my parents uh i'm very thankful for that um even though my father was somewhat of a uh hard-handed uh and draconian <laughter> person uh we came to an understanding well before he died and uh my brothers i get along great with my younger brother but my older brother has issues he has uh psychological issues and they <th> they continue to plague him and to affect me also just just knowing that he's going through uh turmoil;unhappy;0.7686348557472229;unhappy
+366;538.98;547.72;Participant;uh well i guess i really don't cope with it because um he's clinically depressed and he has suicidal tendencies and uh he's not working he's very highly educated and he uh well he doesn't talk to me and uh his family is very abusive towards him it's an not a happy relationship for his family;unhappy;0.9909454584121704;unhappy
+368;551.09;551.52;Participant;yes;happy;0.7306618690490723;happy
+370;572.84;579.22;Participant;you know i would have to say my father my father is my hero he's my uh model he's my uh archetype for what a man should be uh he's he was unimpeachably honest and kind uh yet on the other hand he was uh he had high expectations of me and my two brothers;happy;0.6427367329597473;happy
+372;598.265;604.505;Participant;eh usually once my head hits the pillow i am dead asleep like a log but lately i've been having uh just last night i couldn't sleep i woke up at two and i have a feeling it's because of a diagnosis of cancer that i received one month ago;unhappy;0.9829080700874329;unhappy
+374;630.17;631.98;Participant;um xxx i with my own personal uh methods of handling stress i i'm okay i'm probably ninety percent okay that ten percent comes from uh eh an unsuredness about the future about whether i will survive this or not;neutral;0.5877419114112854;neutral
+376;638.04;638.81;Participant;not really;neutral;0.8578742146492004;neutral
+378;642.97;643.57;Participant;no;neutral;0.5887434482574463;neutral
+380;647.47;648.05;Participant;never;neutral;0.6301270127296448;neutral
+382;651.23;651.8;Participant;never;neutral;0.6301270127296448;neutral
+384;662.0;670.98;Participant;oh i was either surfing or snowboarding or rock climbing or mountain biking uh i always experience joy when i'm exercising at a very high level of exertion;happy;0.9799605011940002;happy
+386;679.97;685.605;Participant;funny jovial uh uh intelligent a perfectionist;happy;0.9885501861572266;happy
+388;706.28;707.82;Participant;hmm eh that's no one's asked me much about that um maybe uh is to submerge my uh hedonistic self;neutral;0.6077086925506592;neutral
+390;744.9;752.99;Participant;i look at once again my father fills my consciousness he was the ultimate um uh deferrer of gratification he put now behind him and he put what will be in the future in his sights and he never let go of that and that's what made him the uh self-made man that he was whereas i am looking always for the present um how i feel now and it's difficult for me to uh slog through a a mile full of uh crap in order to get to a prize that is so far away;happy;0.4732849895954132;neutral
+392;791.8;793.08;Participant;<deep breath> it would be my ex-boss and he started using at my last day of work when he fired me he started using uh a lot of profanity toward me and eh i turned to him and i said you cannot talk to me that way and he continued to use more profanity until uh i objected to it again and that's when he fired me and uh that that's still in my mind and that occurred a year and a half ago;unhappy;0.956413209438324;unhappy
+394;794.63;795.34;Participant;mhm;neutral;0.41290226578712463;neutral
+396;800.06;805.55;Participant;anything i regret uh yeah i regret not getting married and having kids;unhappy;0.9027836918830872;unhappy
+398;846.205;854.8;Participant;sure i suppose i could uh eh but i think that that would've robbed me of the many opportunities i had and i took to travel around the world and experience different cultures because that's what i enjoy the most about life is exploring and seeing different things and talking to different people and expanding my awareness because the united states is not the end of the world it is <i> eh once you get to travel you find out that we are not we do not have the highest uh level of uh of living in the whole world other people think that we're the only ones that think that and i disagree;unhappy;0.44463083148002625;neutral
+400;882.73;886.18;Participant;mm that's a good one i would say <laughter> i would say to just enjoy life because you never know when it's going to end and i think i've done that and uh i may be coming to an end soon uh with this diagnosis of cancer so i think i've done i'm i'm happy with my life thus far;happy;0.9813752770423889;happy
+402;914.17;915.61;Participant;i was giving a rock climbing lesson i have a uh part time job of instructing rock climbing and many of these people have never done it before and uh they thanked me and they told me what a great time they had and how this may have changed their lives so that was very gratifying to me;happy;0.943065345287323;happy
+404;959.37;968.46;Participant;<deep breath> i would say <sigh> my devotion to the environment uh i wasn't always an environmentalist but uh i have been uh vocal in the cause of uh uh being a um uh a steward of the environment because today they're a lot of peoples people that are polluting the environment with a lot of chemicals and pollutants and septic uh things like that and i stand up and i uh have been on t_v and on uh youtube speaking up against these people that pollute the environment;unhappy;0.9740878343582153;unhappy
+406;976.35;977.17;Participant;you're welcome;happy;0.8576839566230774;happy
+408;978.29;978.79;Participant;goodbye;neutral;0.6084375381469727;neutral
+409;16.97;17.84;Participant; <synch>;neutral;0.47252988815307617;neutral
+411;54.93;55.48;Participant;yes;happy;0.7306618690490723;happy
+413;60.78;61.92;Participant;i'm doing pretty good thank you;happy;0.9502778649330139;happy
+415;65.88;68.25;Participant;i was born in the san fernando valley in california;neutral;0.5000905990600586;neutral
+417;71.92;72.24;Participant;really <laughter>;happy;0.9639412760734558;happy
+419;82.76;84.52;Participant;uh i love the beaches i like uh there's just many things to do and uh you can't beat the weather;happy;0.8427257537841797;happy
+421;90.56;92.15;Participant;uh traffic cost of living;unhappy;0.6852133274078369;unhappy
+423;110.4;112.89;Participant;uh no i haven't uh i've only been out of the country once or a few times actually but only to one other country;neutral;0.6209667921066284;neutral
+425;125.6;129.82;Participant;mm well they were when i was younger before i turned twenty one and we used to uh go to tijuana across the border just to get into nightclubs and stuff like that;happy;0.4469861686229706;neutral
+427;136.99;142.66;Participant;uh well i love to see new things new places uh and uh have new experiences;happy;0.870904803276062;happy
+429;153.04;153.93;Participant;uh after high school i went to beauty school for cosmetology;happy;0.46711403131484985;neutral
+431;169.4;172.67;Participant;mm well at the time i was uh looking for a career change and uh i have some friends in the industry and uh i decided to take the classes and see see what i thought;neutral;0.5335777997970581;neutral
+433;177.69;178.61;Participant;uh only as a hobby;neutral;0.6989354491233826;neutral
+435;191.97;194.65;Participant;mm well uh that's a that's a tough one to answer i'd have to think about that;unhappy;0.5579748153686523;neutral
+437;205.39;207.02;Participant;i would be on the outgoing side;neutral;0.5090888142585754;neutral
+439;215.04;217.3;Participant;uh just because i'm more outgoing than i am shy <laughter>;happy;0.9782429337501526;happy
+441;231.98;234.5;Participant;uh lotta times i smoke marijuana;neutral;0.4002586901187897;neutral
+443;244.04;244.97;Participant;mm not the best;unhappy;0.9602096080780029;unhappy
+445;261.54;264.2;Participant;uh i had an argument with my mother over uh how we should handle doing things with my grandmother;unhappy;0.9260519742965698;unhappy
+447;283.52;286.03;Participant;well we just had differences on uh who should do what at what times and who's in control and uh i should pretty much let her uh follow her rules because it's you know she's her daughter;unhappy;0.9575510621070862;unhappy
+449;299.31;300.64;Participant;well it's okay i understood we talked it out and you know realized that uh i might've been uh overstepping my bounds;neutral;0.4346645176410675;neutral
+451;324.05;325.97;Participant;uh it's fairly good i am pretty close with my mom and uh my grandmother i have a stepfather and a half-brother we get along okay but we're not very close and i've never met my real father;happy;0.9458670616149902;happy
+453;347.31;349.23;Participant;um maybe not accomplishing as much as i should have in my life up to now;unhappy;0.8249340057373047;unhappy
+455;365.96;367.43;Participant;uh yeah maybe by not having enough uh ambition or drive to be in a better position in my life;unhappy;0.8140106797218323;unhappy
+457;379.78;385.56;Participant;uh well one of the hardest decisions was when i moved moved uh away from los angeles to wisconsin;unhappy;0.7830528616905212;unhappy
+459;398.65;406.78;Participant;well when i was younger i was getting in trouble and i was looking for a way out so i went and continued getting into trouble and i <deep breath> with a friend <sigh> uh we just packed our bags and moved to milwaukee;unhappy;0.939178466796875;unhappy
+461;412.81;413.24;Participant;yes;happy;0.7306618690490723;happy
+463;420.09;421.86;Participant;uh extremely difficult;unhappy;0.9382348656654358;unhappy
+465;431.42;434.56;Participant;i guess uh i got a lotta things going on or not going on and it just makes it hard for me to sleep;unhappy;0.9803696870803833;unhappy
+467;442.15;443.0;Participant;um issues in my life and uh;unhappy;0.8270362615585327;unhappy
+469;445.8;447.0;Participant;sure sometimes;neutral;0.436594158411026;neutral
+471;453.27;455.25;Participant;mm i guess it depends on what i have to do;neutral;0.7030488848686218;neutral
+473;462.04;462.54;Participant;right now;happy;0.38667067885398865;neutral
+475;465.82;466.19;Participant;a little;neutral;0.40528151392936707;neutral
+477;478.32;479.65;Participant;well in the last few minutes since we started talking about depressing stuff i starting to feel a little more down;unhappy;0.9811562895774841;unhappy
+479;485.57;486.19;Participant;i haven't;neutral;0.7462463974952698;neutral
+481;489.55;489.84;Participant;no;neutral;0.5887434482574463;neutral
+483;497.39;498.18;Participant;mm very seldom;neutral;0.5780456066131592;neutral
+485;504.29;505.58;Participant;<psh> stop thinking about 'em;unhappy;0.5036782026290894;neutral
+487;515.03;516.61;Participant;mm i don't know i couldn't tell i couldn't answer that right now;neutral;0.5340730547904968;neutral
+489;543.11;547.32;Participant;um i guess i felt uh eh it's been awhile since i've been really happy i don't have uh a whole lot of very happy thoughts as recently;unhappy;0.5571850538253784;neutral
+491;563.3;564.36;Participant;mm <deep breath> oh let's see i <sigh> did go to las vegas uh a couple months ago i had a good time there;unhappy;0.8753830194473267;unhappy
+493;589.92;591.26;Participant;well i'm a honest person for the most part reliable uh i think i'm easy to get along with;neutral;0.6006121039390564;neutral
+495;610.35;611.03;Participant;wow where do i start i have plenty of uh bad decisions i could erase;unhappy;0.9783912897109985;unhappy
+497;620.92;622.68;Participant;um yeah well i have a d_u_i on my record;unhappy;0.9880120754241943;unhappy
+499;631.79;636.51;Participant;uh well for the time it suspended my license makes it extremely difficult <diff> makes life extremely difficult;unhappy;0.9924145340919495;unhappy
+501;649.3;653.09;Participant;well yeah it's uh hard to get around when you can't drive legally and if you do drive illegally you're at risk of going to jail;unhappy;0.8084295392036438;unhappy
+503;654.87;656.37;Participant;for driving without a license;unhappy;0.8693341612815857;unhappy
+505;669.62;670.19;Participant;uh well the original charge did but i haven't got caught driving since;unhappy;0.4843393862247467;neutral
+507;680.66;681.98;Participant;mm i don't have a best friend;unhappy;0.8101545572280884;unhappy
+509;695.56;696.8;Participant;mm well let's come back to that one;unhappy;0.41063129901885986;neutral
+511;718.98;720.41;Participant;mm maybe that i could uh follow through with some of my plans be a little more ambitious;happy;0.46548643708229065;neutral
+513;725.23;725.67;Participant;maybe not;unhappy;0.6010395288467407;unhappy
+515;729.19;733.74;Participant;uh well <we> some of the decisions i've made in my life i have regrets;unhappy;0.9153504967689514;unhappy
+517;747.62;750.06;Participant;<sigh> uh take care of business first and always handle your responsibilities;unhappy;0.9891408681869507;unhappy
+519;772.6;773.48;Participant;good <go> uh good weather good music good company good conversation;happy;0.9590940475463867;happy
+521;795.62;797.34;Participant;mm <sigh> wow i don't have an answer for ya;unhappy;0.9446082711219788;unhappy
+523;814.92;819.4;Participant;i love to uh bike ride i can go for walks or hikes uh i love to swim in the ocean;happy;0.6424412131309509;happy
+525;832.32;832.86;Participant;mm my mom;happy;0.7007237076759338;happy
+527;845.28;846.51;Participant;well she uh she was a single mom with two kids and uh worked really hard to raise us;neutral;0.49194464087486267;neutral
+529;853.35;854.73;Participant;yeah yeah it wasn't easy;unhappy;0.7993100881576538;unhappy
+531;861.81;862.18;Participant;very;unhappy;0.539250373840332;neutral
+533;873.42;873.76;Participant;sure;happy;0.5428690910339355;neutral
+535;875.37;876.25;Participant;bye <laughter>;happy;0.8902725577354431;happy
+537;49.65;50.12;Participant;yes ;happy;0.7127003073692322;happy
+539;54.78;55.3;Participant;i'm okay ;happy;0.5989285111427307;neutral
+541;59.26;60.29;Participant;here in los angeles ;happy;0.43068835139274597;neutral
+543;68.64;71.32;Participant;there's a lot of things to do i love the beach  um i love the i love that it's sunny all the time ;happy;0.9192319512367249;happy
+545;81.92;84.07;Participant;um the amount of people  um  that's really about it the amount of people ;neutral;0.5941735506057739;neutral
+547;89.16;89.86;Participant;just a little ;neutral;0.8325330018997192;neutral
+549;93.29;97.5;Participant;i just like um going to new places and just discovering new things ;happy;0.8464368581771851;happy
+551;128.2;130.16;Participant;um i recently went to new york i was there for about three months  um and it was extremely boring i went to western new york  um and it was extremely uh snowy and um  i didn't <didn> was in a position where i didn't have a car so i didn't get to go very many places and i was in a small town   so um  i uh  uh it was beautiful for what i got to see but really  it wasn't really much to it <laughter> ;unhappy;0.9277321696281433;unhappy
+553;131.2;131.58;Participant;yeah ;happy;0.5137441754341125;neutral
+555;137.46;139.71;Participant;um  both i'm both an introvert and an extrovert ;neutral;0.6386992931365967;neutral
+557;146.7;147.21;Participant;um  i really enjoy doing things by myself  um ;happy;0.7827824950218201;happy
+559;156.29;163.2;Participant;i um have a lot of my own um my likes and dislikes and i've spent a lot of time alone even though um i have <ha> i do have a lot of friends and uh when i do go out i i do tend to meet a lot of people but um i also enjoy um being by myself a lot ;neutral;0.5155695676803589;neutral
+561;178.14;180.86;Participant;um  probably outgoing creative um  talented  um fun trustworthy ;happy;0.9698165655136108;happy
+563;197.22;197.81;Participant;um  i studied language um  and um physics  and um  math;neutral;0.43810367584228516;neutral
+565;202.04;202.76;Participant;no i'm not  i'm actually um;neutral;0.543440580368042;neutral
+567;203.38;205.05;Participant;i'm um i'm trying to be an actress ;happy;0.5366877317428589;neutral
+569;221.99;228.55;Participant;it was something that i fell into when i was a teenager  scrubbed_entry and uh i really enjoyed doing it and i hadn't done it for years um  so i figured why not i just came back to california and might as well try something that i did enjoy really doing  ;happy;0.5863181352615356;neutral
+571;241.83;243.44;Participant;um so far um i just got picked up by an agent  so i haven't really done anything yet as an adult  but um  i'm hoping  hoping something it'll be fruitful  ;happy;0.544390082359314;neutral
+573;272.76;275.31;Participant;um  <sigh> i really don't haven't had too many  um  i guess my sister she's done really well  um  my boyfriend he's a  he's a very positive human being  um  but um  really i haven't had too many positive influences ;unhappy;0.8729401230812073;unhappy
+575;293.12;296.83;Participant;um  i'm close i mean we <w> we hang out um i i don't tell them everything  um they're kind of judgmental  but um  other than that i mean i mean we hang out i mean i see them every day ;happy;0.4607897996902466;neutral
+577;324.06;326.7;Participant;um  geez um  it's kinda hard for me to relax um i mean i try to watch t_v um and i read  a lot um  that's probably about it i read i do a lot of sleeping <laughter> i'm a little depressed so um  yeah it's kinda it's xxx like i said it's really hard for me to relax ;unhappy;0.9877006411552429;unhappy
+579;345.41;353.18;Participant;um  it isn't  um i tend to think a lot  um about the things that stress me out  um i've been through a lot of a lot of stuff so um  yeah so i i don't i don't i don't sleep very well at night and if i do fall asleep i wake up all through the night usually with some kind of anxiety attacks ;unhappy;0.9342003464698792;unhappy
+581;385.94;387.49;Participant;um  i dream a lot about um the stuff that has uh  has affected me throughout the years so um  it's usually you know like i i'll dream about something that stressed me out and then i'll wake up and my my chest'll hurt    um  or just i just can't sleep all night because i just think i seem to be i don't know if i'm afraid to go to sleep  but i uh <sigh> i just i don't know i feel like that <th> that's a vulnerable place for me  because of stuff that've happened to me ;unhappy;0.8630275726318359;unhappy
+583;389.78;393.15;Participant;so um  i i so i sleeping is just not really something i do well ;unhappy;0.9498866200447083;unhappy
+585;422.4;424.47;Participant;um  tired  i'm uh  i'm moody i'm very sensitive  um  i uh i'm just negative <ne> a negative person  um which really that's not me um  i uh yeah i'm like <l> judgmental is not me either um i just  i'm just not a not a nice person to be around ;unhappy;0.9966527819633484;unhappy
+587;457.09;457.45;Participant;um  i try to <t> i i spend a lot of my time reading i try to go out and do um i force myself to go out and do things um  just to keep myself involved  um so that i don't uh sit <si> just sit around and and and dwell on the fact that i can't sleep and i i try to um get myself as exhausted as i possibly can  um by running around and and and doing things  so ;unhappy;0.7083939909934998;unhappy
+589;483.53;488.6;Participant;um it's difficult  um i do like there is a part of me that doesn't wanna  i don't really wanna go out and do things i have to actually force myself to um if i have make appointments i uh  i make appointments to like for auditions or or um  even to do this i um i i tend to uh  just not  like at the last minute i'll i'll try to convince myself not to go <laughter> but then i force myself to anyways  ;unhappy;0.741798460483551;unhappy
+591;493.51;493.92;Participant;yes ;happy;0.7127003073692322;happy
+593;504.68;508.15;Participant;um i've been diagnosed for two instances  um i was diagnosed <dia> diagnosed about three years three and a half years ago  and then i was diagnosed again um in august;unhappy;0.607871949672699;unhappy
+595;523.26;526.93;Participant;um  the first time it was um  i just wasn't sleeping <sl> because of the not sleeping um   and the uh just the stress <st> the unbelievable stress ;unhappy;0.9488214254379272;unhappy
+597;548.89;556.37;Participant;um  and then the second time it was a xxx uh once again i started with the not sleeping um and then every moment of the day was just thinking about what happened to me um  and i just i i just couldn't take it anymore  so i i figured um  i was getting too gloomy i was getting like um  not thinking life was worth it and and i i i that's i just needed to see somebody before anything escalated ;unhappy;0.9732077717781067;unhappy
+599;559.41;559.85;Participant;yeah  it was ;happy;0.6442176103591919;happy
+601;563.28;564.12;Participant;i no <n> do not;unhappy;0.6770737171173096;unhappy
+604;584.73;585.37;Participant;and uh out here i i was i just the counselors that i was going to just didn't really seem to be helping me much  um they just ;unhappy;0.9342566728591919;unhappy
+607;593.8;594.02;Participant;yeah so um  yeah ;happy;0.5159464478492737;neutral
+609;609.1;610.39;Participant;<sigh> stressed um uh lately i've been really sad and i don't know why   um  but like i said i've been trying to combat that by um   keeping myself busy ;unhappy;0.9956716299057007;unhappy
+611;639.84;640.31;Participant;um  actually um  i'm kind of a couple days ago  i was actually really happy and i was genuinely happy   um but then i went back to  being you know going back to feeling miserable  so;unhappy;0.5949938893318176;neutral
+613;676.36;676.85;Participant;um  well i realized  i got up in the morning i actually did get a good night of sleep  and um  i realized uh that i'm actually really lucky  um 'cause i've been through a lot in my life and i have um somebody in my life who really loves me and somebody who um is finally there for me  and uh  you know he gives me what i need emotionally and i was just really thankful for that  and that made me really happy  um ;happy;0.9811610579490662;happy
+615;680.22;680.81;Participant;yeah  thank you <laughter>;happy;0.9531065225601196;happy
+617;702.74;708.66;Participant;oh geez um  i've had so many years of just  just bad just a lot of bad  that it there has it's been a long time  since i've been proud of anything  i guess if anything it's my ability to survive through all the hardships i've been through ;unhappy;0.888047456741333;unhappy
+619;725.18;725.72;Participant;um my <m> a lesser person i guess would've  gotten rid of themselves a long time ago  but um even though like i'm really depressed and i feel gloomy and i feel <fe> just feel miserable about a lot of things um  there's gotta be a silver lining  so ;unhappy;0.9912806749343872;unhappy
+621;743.43;746.08;Participant;um so yeah so i mean like i guess that's what i'm proud of that uh  i although a whole bunch of bad things have happened to me it hasn't ruined me i still try to be a good person um i i try not to be negative towards other people  and um  and truthful and i still i still have drive in me ;happy;0.6169713139533997;happy
+623;748.01;748.46;Participant;yeah ;happy;0.5137441754341125;neutral
+625;768.27;769.11;Participant;ugh <sigh> so much um  my last marriage um not getting out when i should have  um  and uh just i regret a lot;unhappy;0.9892458915710449;unhappy
+627;803.93;809.61;Participant;<sigh> um the any situation that would've had a red flag um  eh just get out of it you know eh some things just don't work and um  no matter how hard you try no matter how much you put into it so um  i i would tell myself um to um  that it's not selfish  to let go of a bad situation  and um not everybody can be helped so sometimes you just gotta live for yourself and help yourself ;unhappy;0.9178680777549744;unhappy
+629;810.2;810.55;Participant;so if;neutral;0.3623976707458496;neutral
+631;817.52;817.88;Participant;had i known that then had had i known that then i i i probably would've done better in life so ;unhappy;0.9584658145904541;unhappy
+633;819.43;819.84;Participant;yeah ;happy;0.5137441754341125;neutral
+635;864.56;865.07;Participant;<sigh> um people who um  when people are down on me for my faults  um that i have done that i have things that i've done in my past that people steal still relive when i'm trying to forgive myself um  people who are mean to other people uh people who talk poorly about people behind their backs people that are untrustworthy um just anybody who picks on the little guy  um  you know people who don't care about the environment or animals um ;unhappy;0.9939044117927551;unhappy
+637;883.26;884.86;Participant;i just <jus> i think that everybody should be as good as they possibly can be  and uh it's it's disheartening and it it just makes me so mad that people just can't be people don't let people live people try to make um everybody feel as negative and as poorly as they do  and uh i that makes me mad ;unhappy;0.9494357109069824;unhappy
+639;905.48;910.86;Participant;<laughter> i vent <laughter> um  yeah i tend to vent and then uh  and them um and then it's usually over i try not to bad mouth people um i try to just talk through it until um until it's gone and then it doesn't bother me anymore;unhappy;0.46743565797805786;neutral
+641;944.32;945.23;Participant;mm i try not to get angry um  because i have a really bad temper and it um  and it can get outta hand so um  what i do is i i <laughter> something gets me so mad i tend to go and take a nap  um <laughter> if i'm not in that situation where i can just go and take a nap um i usually just walk away from the situation and i try to clear my mind and come back to it ;unhappy;0.794497013092041;unhappy
+643;1009.52;1009.98;Participant;um  it was a couple days ago it was actually with my mother um  it was about um  actually she thought that i had taken a shirt from her  and um she was screaming and yelling at me and um  i was i was tired um i was it was late and um  i started to yell at <a> back at her you know because i was hurt that she would accuse me of something so petty um  and you <yo> <sigh> it's uh going back to my past you know when i was younger and you know i didn't care about you know people's things and i would just kinda take and do whatever i wanted to and i'm not i'm so far from that person   um and i it it hurt me so i got mad and i and i started to yell and argue  mm kinda petty and stupid but  at the time it it seemed  it seemed uh  viable ;unhappy;0.908501386642456;unhappy
+645;1059.98;1061.33;Participant;um  hmm one of my most memorable experiences  um  god <go> i've had so many um  maybe it was um  i don't know um  it was  probably um  graduating pharmacy school ;happy;0.6268438696861267;happy
+647;1079.43;1080.1;Participant;um i felt pretty great i didn't know if i was doing  uh very very well or not um and i ended up getting like on my last test scores i getting <get> ended up getting like ninety eight percent  and um ;happy;0.9491956830024719;happy
+649;1095.0;1098.16;Participant;i uh  i actually i didn't <did> i had no confidence <laughter> that i had done well in class in school at all and i i didn't even know how i was getting the grades i was getting um so that was a really big accomplishment for me um  and uh yeah that was a great it was a great memory yeah ;happy;0.8043855428695679;happy
+651;1101.27;1101.56;Participant;yeah ;happy;0.5137441754341125;neutral
+653;1152.17;1152.61;Participant;um  i'm reliable  um  i um  i'm talented  um i i'm a good listener um  i'm always there to help people  um  i tend to always try to do the right thing  um  sometimes actually i forget that i have any good qualities but  um  and just  i uh  all around i try to be you know as as good and the best person that i can be to other people and myself um ;neutral;0.5645561814308167;neutral
+655;1153.36;1153.68;Participant;yeah ;happy;0.5137441754341125;neutral
+657;1189.74;1190.55;Participant;um  going to comedy shows  um  just um  having moments where you just laugh with people  um  sometimes just reading puts me in a good mood uh  i don't know probably that's about it ;happy;0.8669289350509644;happy
+659;1192.19;1192.66;Participant;uh huh ;neutral;0.3580619990825653;neutral
+661;1195.27;1195.62;Participant;okay ;neutral;0.602632462978363;neutral
+663;1197.81;1198.27;Participant;thank you ;happy;0.8840107321739197;happy
+665;1199.38;1199.65;Participant;bye;unhappy;0.5548562407493591;neutral
+666;11.54;12.35;Participant; <synch>;neutral;0.47252988815307617;neutral
+668;54.075;54.865;Participant;yes thanks;happy;0.9225769639015198;happy
+670;60.06;61.85;Participant;i'm well thank you how are you;happy;0.9213230013847351;happy
+672;67.41;68.52;Participant;i grew up in oklahoma;neutral;0.4660393297672272;neutral
+674;69.76;70.06;Participant;mhm;neutral;0.41290226578712463;neutral
+676;72.975;79.72;Participant;um i moved to l_a about five and a half years ago so i used to be on the west <we> on the east coast and then i decided i wanted to come out here;happy;0.49146485328674316;neutral
+678;82.98;91.08;Participant;my hometown not very often um most <m> most of my family's moved away so i visit them but i don't actually get back to oklahoma much;neutral;0.5334641933441162;neutral
+680;105.23;107.62;Participant;<sniffle> oklahoma's very different um uh l_a's a lot more exciting there's a lot more um uh to do here and um uh the ocean obviously is very nice so;unhappy;0.9887658953666687;unhappy
+682;119.75;124.35;Participant;um you know that's a good question i um i wanted to try something new and i've always loved the beach and i thought uh and i also like big cities so i thought l_a might be a good place for me to come;happy;0.6488980650901794;happy
+684;126.39;129.51;Participant;very it's probably one of the best uh decisions i ever made;happy;0.8782928586006165;happy
+686;131.535;131.835;Participant;<laughter>;happy;0.9520729780197144;happy
+688;140.09;141.39;Participant;pretty easy i think um eh it seems kind of natural it seemed like a good fit um i just really like it here;happy;0.7993207573890686;happy
+690;153.925;159.685;Participant;oh it's great um i have a couple of roommates and we get along really well i live a couple of blocks from the beach um and uh every day i get to walk on the beach or um you know hang out with friends and it's just it's kind of like being on vacation all the time it's really nice;happy;0.9426609873771667;happy
+692;170.94;173.23;Participant;mm i studied philosophy and um political theory and government and did a little bit of english literature on the side;happy;0.5083373785018921;neutral
+694;186.945;192.465;Participant;um it kind of just happened naturally i think uh i went to liberal arts school and got kind of a exposure to a lot of different areas and i just followed what i liked and was interested in and ended up spending a lot of time studying that;neutral;0.5037119388580322;neutral
+696;196.51;203.41;Participant;um not exactly i work for an educational nonprofit so i work with graduate <grad> with graduate students um in the social sciences and humanities;neutral;0.8094765543937683;neutral
+698;203.94;208.9;Participant;um but i don't actually um use my philosophy background very often;neutral;0.7291929125785828;neutral
+700;227.98;231.06;Participant;<laughter> um you know i have actually studied to become a success coach um and so i working with students is is kind of a nice aspect of of doing that but i'd really like to work with other <o> with other people so not just students um but help them to achieve their goals and realize their dreams;happy;0.7756907343864441;happy
+702;254.38;260.74;Participant;um i'd say it it it's fairly hard um in the sense that um you know it can be challenging for people to actually be motivated and do all of the work that needs to be um undertaken in order to realize their their dreams but and it it's also a challenge because making a living at it uh requires charging people money <laughter> so um finding people who are willing to pay for that can be um difficult too;unhappy;0.47448545694351196;neutral
+704;266.5;269.4;Participant;um i'm definitely on the shyer side i'm an introvert so;neutral;0.6984289288520813;neutral
+706;292.64;300.38;Participant;um i'm pretty good in one on one situations with people but when you get me in a group with more than a a couple of people i'm very much an observer so i tend to listen a lot and i'm not as engaged and i think that um is something that goes it is noticed by others and it it maybe is a little bit odd to them especially if they're not introverted um so i i'd say and it's also a challenge for me i tend not to be the person who introduces myself um in a room full of strangers;neutral;0.4746863842010498;neutral
+708;308.28;312.9;Participant;<laughter> pretty good i think um but i do have a temper so i can get i can get upset from time to time;unhappy;0.6077073812484741;unhappy
+710;316.75;321.21;Participant;not really um it can be a challenge when i'm driving <laughter> but other than that no;unhappy;0.40619340538978577;neutral
+712;342.94;344.95;Participant;hmm hmm i'm not sure it would've probably been a discussion over politics and it probably would've been a friendly argument um probably with one of my liberal friends so but i actually can't remember the specific time;neutral;0.43812939524650574;neutral
+714;371.68;376.66;Participant;<laughter> <sniffle> mm i meditate um i do that almost every day um i also walk at the beach i love the ocean and i really like the sounds and just being out there is very peaceful um and i like to read and be alone just with my thoughts;unhappy;0.8804236650466919;unhappy
+716;377.15;378.12;Participant;so that's nice;happy;0.9413138031959534;happy
+718;420.82;421.19;Participant;mm well let me think about that for a minute <sigh> hmm <laughter> i'm having a hard time coming up with anything i mean i i i'm sure there are plenty of things um just nothing comes to mind um <sniffle> <sigh> hmm;unhappy;0.8844659924507141;unhappy
+720;424.78;426.26;Participant;okay i'm sorry <laughter>;unhappy;0.7231762409210205;unhappy
+722;493.07;501.37;Participant;hmm well this isn't exactly an event it's it's a dream and it's not a particularly um traumatic dream so as far as dreams go but um i do have it sometimes probably more often than i'd like so i wouldn't be upset if it you know if i didn't have it um and it's just a version of a dream that i think a lot of people probably have but um it's usually me in school somewhere at the end of the semester haven't gone to class taking the exams know i'm going to fail and you know really unhappy about it wishing why didn't i study and attend class the way i should have um which actually wasn't really a problem for me in school but now i have this dream sometimes and it's kinda frustrating and i'm not exactly sure why i mean i know why but i don't know what it applies to because it's not like i am worried consciously at least about failing things so;unhappy;0.9843131303787231;unhappy
+724;507.53;509.58;Participant;no i don't think so um at least not not that i'm aware of;neutral;0.6460601687431335;neutral
+726;566.25;567.64;Participant;<sniffle> i feel guilty um i have a a brother and a sister-in-law and a nephew and they live on the east coast and i love my nephew he's eight he's adorable and um i when i used to live there when he was younger um spent a lot of time with them and since i've been in california and particularly in the last year i've spent a lot less time visiting them so for example i saw them for a week at christmas and then i went back in <i> at the beginning of may so it was you know four months between the last <la> the last time i'd seen them um and that i felt bad about because we really enjoy each other's company and he um you know really likes me to be there but then he gets upset when i leave and he asks when am i coming back so that's um that makes me feel bad sometimes;unhappy;0.9743067026138306;unhappy
+728;630.17;632.93;Participant;mm um well i have a brother i'm very close to him he's younger and um he's like four four and a half years younger he's married um i have a nephew um my both of my parents have passed away so it's just the two of us and we have a large extended family but we're not that close with them um with most of them um on my father's side there's one brother um and he's married and has a few kids so i have a few cousins on that side but then on my mother's side there are <sigh> five <fi> four or five other kids um most of them with several children of their own so i have a lot of cousins on that side but they live all over the country and um so we stay in touch a little bit through facebook um and there a couple that i talk to on the phone and visit every now and then but you know we're not that close with our extended family so;unhappy;0.4725779592990875;neutral
+730;703.22;707.57;Participant;um i'd say well um i i mean i have a lot of friends i think that have been positive influences scrubbed_entry when i came out to california um i started working at a nonprofit and it was kind of a strange place it was very different from what i was used to um it was a little bit challenging and she also worked there so um we worked on a program together over the summer and got to know one another and um we just established this really strong friendship and she's kind of i would say my best friend probably here and probably just in general um and now she's moved to vegas um which is a little bit tough for me um but uh we're going to napa this weekend so that should be good um but she's been a very she was a very positive influence because when i came out here and didn't really know anybody um and it you know since i'm an introvert it's not that easy for me to make friends it was really nice because we share a lot of the same values and we have a lot of fun together and you know i think she kinda gets me so it's a lot of fun to hang out with her and and that's been nice;happy;0.630283534526825;happy
+732;751.625;751.925;Participant;i'm a sleeper <laughter> so it's pretty easy um sometimes my you know depending on how long i've been awake <clears throat> i can be wound <wou> a little wound up and so sometimes i have to take a little while to decompress but um i usually meditate right before i go to bed um and that's very helpful um and i can sleep uh you know i i i generally sleep in ninety minute cycles so um you know usually six or seven and a half hours but i can easily sleep nine hours if i have the time and inclination um i usually don't wake up in the middle of the night or at least if i do i don't remember it so;happy;0.6730750203132629;happy
+734;799.12;800.79;Participant;um well i don't <do> actually don't sleep very well when i travel <s> one of the things i do for work is i travel uh quite a bit because i work for a company that's back east so i work from home most of the time but then i travel like one week a month and when i travel i'll take the red-eye um and then i'll visit with a lot of friends in the evening so i don't sleep that much it's not that i um sleep poorly or badly it's just that i um don't have that much time to sleep and the first day after not sleeping or not sleeping much is okay but usually the second day is not very good um so i get a lot more tired uh and it's harder to concentrate and um i don't know it just feels like more of a struggle;unhappy;0.6838968396186829;unhappy
+736;819.16;822.94;Participant;i would say good um summer is a little <l> is an is a busy time for the organization that i work for so i'm a little um i i don't know <kn> know if stressed is the right word but i'm you know a little anxious about um everything going well this summer but um in general i'm feeling pretty good;happy;0.7779948115348816;happy
+738;855.73;864.48;Participant;not really i can't i can't think of anything um there <th> there is one thing i um i do struggle with exercise like i like to walk a lot um and i hike with friends and um i had been really motivated about it um for a couple of months but then i went away um to the east coast and when i came back i was a lot less motivated um because i didn't really exercise when i was there and i'd gotten out of the habit even though it had only been about ten days and so now i'm struggling to try and get back in the routine and it's not going as well as i would like;unhappy;0.5865504145622253;neutral
+740;868.1;868.5;Participant;it's okay thank you;happy;0.7634570598602295;happy
+742;871.96;872.21;Participant;no;neutral;0.5887434482574463;neutral
+744;875.35;875.67;Participant;no;neutral;0.5887434482574463;neutral
+746;896.69;900.53;Participant;hmm well scrubbed_entry he's a lot of fun and um he really likes me and i really like him and we play a lot of games and talk a lot and we're actually doing a book club now so we're gonna skype and um maybe i'll get some more time with him that way but uh just being around him is fun;happy;0.9725647568702698;happy
+748;931.66;933.77;Participant;hmm <sigh> well she'd probably say that i know how to have fun but that i can be serious and um that i you know care about others uh and that i'm loyal and i'm not sure what else um i think those those are probably the main things;unhappy;0.6767290830612183;unhappy
+750;974.12;975.05;Participant;<sniffle> um i wish i had more self-discipline <laughter> so um i wish that you know i could diet um or eat healthier foods and not have a problem uh with sugar because i love to eat sugar i wish that i would not procrastinate because i've gotten a lot better about that but i still do and that can be challenging um and i wish that i um xxx i don't know uh i think i wish that i was in a relationship so probably those things;unhappy;0.994403600692749;unhappy
+752;1043.33;1046.01;Participant;mm hmm so at the last organization i used to work at i had a boss and she was i don't feel like she was um i don't think we were very compatible um and she uh used to push my buttons or so i thought and so um one day she was really upset about something um because a board member had called her up and asked her a question and she didn't have the answer um and he was upset about something and it was something to do with my department so she called me into her office and let me know how unhappy she was um but it wasn't i i've been a manager for many years um and i have very strong opinions about how you handle challenges with people <peo> with staff members;unhappy;0.9692924618721008;unhappy
+754;1082.83;1084.51;Participant;and the way that she handled the situation with me was really inappropriate i thought um and she clearly was trying to frighten me and make me feel um you know incompetent or at least that's the the way that i felt about it and um i did you know i tried to be very calm and said that i would take care of it and i did take care of it um but uh after that our relationship wasn't really the same and i ended up staying <st> uh leaving there to go back to the old organization that i'd worked for not that long afterwards because i just didn't really have a lot of respect for her after she did that to me or after we had that interaction so;unhappy;0.9516152739524841;unhappy
+756;1138.64;1140.7;Participant;<laughter> so i heard this piece of advice the other day and or uh or this thing and that i thought was really profound and i wish that i had read it back then which is um when you think about buying something instead of thinking uh oh here's this beautiful coat it's a hundred dollars i want it i'm gonna buy it it uh don't think of it as costing a hundred dollars think of it as costing ten times that because that's effectively what your money could do if you didn't spend it on that coat but instead invested it you know intelligently um you would have ten times that much money eventually so you should really think about it in those terms and um i think i've been much more a consumer than a saver and so i wish that i had uh been more aware of that ten or twenty years ago;unhappy;0.5646604895591736;neutral
+758;1173.27;1173.6;Participant;<sigh> probably scrubbed_entry um they asked me to be his um godparent and his guardian if anything should happen to them and that meant a lot to me because it it made me feel like they trusted me and thought that i was a good person the kinda person that could take care of their child should something happen to them so;unhappy;0.9419592022895813;unhappy
+760;1206.28;1216.17;Participant;<sigh> let's see well uh in <i> it wasn't really recently but in february i went i like to travel and a friend uh and i went to singapore uh and i got to fly first class um we used miles uh frequent flyer miles to get the um tickets and so uh that was really enjoyable because um the seats pull down you get to sleep the food is delicious you get special attention and um i also hadn't been to singapore before so that was kind of cool too;unhappy;0.8844230771064758;unhappy
+762;1224.43;1224.85;Participant;sure thank you;happy;0.9104747176170349;happy
+764;1225.82;1226.12;Participant;bye;unhappy;0.5548562407493591;neutral
+765;46.71;47.54;Participant; <synch>;neutral;0.47252988815307617;neutral
+767;86.58;87.09;Participant;yeah sure;happy;0.4701445996761322;neutral
+769;92.38;93.44;Participant;i'm fine thank you;happy;0.9031654000282288;happy
+771;97.64;98.71;Participant;i am from los angeles;neutral;0.48560622334480286;neutral
+773;108.48;111.76;Participant;well you can't beat the weather um and i just think the familiarity of home just uh makes me feel comfortable here;happy;0.8522899150848389;happy
+775;122.9;127.04;Participant;smog uh rudeness although it doesn't compare to new york it's um <laughter> people can be unbearable when they're rude;unhappy;0.7943205833435059;unhappy
+777;136.63;142.02;Participant;um not as much as i'd like lately i traveled more in the past but uh not lately no;unhappy;0.9420466423034668;unhappy
+779;149.78;153.54;Participant;i just think seeing different places it's um learning new things uh finding things that are fascinating that peak my interest;happy;0.7111775279045105;happy
+781;186.41;192.83;Participant;um let's see i think <laughter> spoke of new york earlier i think the first time i went to new york i was quite amazed i know it's uh still <st> still only in america but i just think um being from l_a i didn't think anything or any city could be bigger and more uh how do you say uh ostentatious than new york but uh it was it was quite an experience and uh i didn't think any place was uh i didn't <di> i didn't think any place was dirtier than downtown l_a <laughter> but i think times <time> i think <laughter> times square's got us beat;happy;0.6689401268959045;happy
+783;199.565;202.565;Participant;too many to mention i i don't even know where to start;unhappy;0.8574562668800354;unhappy
+785;211.48;212.97;Participant;suppose it depends on the situation;neutral;0.6532920598983765;neutral
+787;242.4;248.48;Participant;um i like to walk i like to uh i like to play with my dogs uh reading uh anything where i guess i suppose i could just sit still let and let my mind go blank i know reading requires some concentration but uh you know just uh things that uh i don't have to um exert myself too much uh helps me relax;neutral;0.49565061926841736;neutral
+789;255.24;259.62;Participant;<sigh> in the past i've had problems but i'm getting better <laughter> let's just say that <laughter>;unhappy;0.6656107902526855;unhappy
+791;269.74;273.4;Participant;ah probably argued with my roommate <psh> couple days ago but uh that happens we're friends uh it's a loving argument <laughter> if if you will;happy;0.9720271229743958;happy
+793;283.03;285.28;Participant;uh i met this roommate about six seven years ago we just uh kind of um kinda moved around the same social circles and just got along;neutral;0.4932132363319397;neutral
+795;293.7;300.95;Participant;it's cool i mean guess you know like we do argue uh we have our differences sometimes but there's not one person i'd rather have i'd rather live with than than her she's she's cool;happy;0.79375821352005;happy
+797;321.16;322.695;Participant;hmm how much time do we have uh <laughter> it's just too numerous to mention um i i i wouldn't know how to answer that;happy;0.5384488105773926;neutral
+799;341.695;342.665;Participant;i think breaking up with a girlfriend that i truly cared about but knowing knowing that it just wasn't going to work um that was very difficult;unhappy;0.9636483788490295;unhappy
+801;364.39;365.23;Participant;just weighed pros and cons and just thought it just wasn't going to work um no matter how much love or care i brought to the relationship there was something missing and i think i invested enough time she invested enough time and just knew it was over;unhappy;0.9401281476020813;unhappy
+803;369.17;369.35;Participant;no;neutral;0.5887434482574463;neutral
+805;389.31;394.1;Participant;so many <laughter> i don't have too many regrets but things you erase from your memory oh there's a lot uh too numerous to mention i don't know how to answer that;unhappy;0.6610874533653259;unhappy
+807;430.625;431.805;Participant;the same girl that i broke up with she was the she was a girlfriend <laughter> of uh a a best friend of mine uh they were separated for for several years and we always had a chemistry always a friendship and it turned into something to something which you know turned into a relationship and uh it hurt him uh and currently we do not speak i wish uh my regret is i wish i i would've handled that better;unhappy;0.9259515404701233;unhappy
+809;436.04;436.37;Participant;<scoff>;unhappy;0.991051435470581;unhappy
+811;449.92;455.45;Participant;um it's it's funny see as i as i get older i'm not as close but i still care for 'em and i still love them and i think they love me i my mother and my father are both alive mm don't interact a whole lot i'm very close to my older sister;neutral;0.44012653827667236;neutral
+813;459.015;459.845;Participant;my older sister;happy;0.4170824885368347;neutral
+815;477.69;481.82;Participant;um she's just strong no nonsense uh she's short yet a firecracker and i've always liked that about her she uh uh she always felt makes me feel makes me feel comfortable i'm like uh another son to her <laughter> in a way;happy;0.8962458968162537;happy
+817;500.405;507.825;Participant;uh suppose it depends on my stress level um when i have a lot on my mind i have difficult sleeping and uh other times it just if i really need to get to sleep it just requires me listen to the radio listen <lis> uh watching t_v reading and eventually i'll get tired fall asleep;neutral;0.5685046315193176;neutral
+819;519.91;525.03;Participant;crabby uh i suppose like anybody else um tired listless you know all the normal things i suppose happen when somebody doesn't sleep well;unhappy;0.9902061820030212;unhappy
+821;528.97;529.41;Participant;i feel good;happy;0.9577410817146301;happy
+823;542.63;543.1;Participant;mm no not really um no no i i wouldn't say i have;neutral;0.5748460292816162;neutral
+825;547.07;547.83;Participant;no i have not;neutral;0.8081347942352295;neutral
+827;550.55;551.16;Participant;yes i have;happy;0.631386935710907;happy
+829;557.44;558.26;Participant;i was diagnosed probably about about five years ago;unhappy;0.5394010543823242;neutral
+831;577.51;581.15;Participant;i think uh i always knew there was a problem i always knew there was some i i i think i always knew before i got treatment that there was some issue emotionally and hmm and lot of things that are very hard to explain and i just was tired of feeling that way so i sought help;unhappy;0.707288920879364;unhappy
+833;607.85;609.0;Participant;think just uh lethargy uh uh no desire to do anything uh motivation just was wasn't there um think normal depression type things uh um social <socia> i became socially awkward which was a little bit different for me 'cause uh growing up i was you know quite talkative <laughter>;unhappy;0.9762749075889587;unhappy
+835;612.93;613.3;Participant;i do;happy;0.6084826588630676;happy
+837;617.54;618.45;Participant;i'm sorry say again;unhappy;0.9323834180831909;unhappy
+839;622.41;624.45;Participant;gotcha um it does i think it does;happy;0.5575373768806458;neutral
+841;651.725;654.225;Participant;well um <sigh> i think the number one thing and this is what i'm amazed about is the temper i think i've uh it's allowed me to to step back from certain situations and not take them so seriously and not get so tense or angry and then react i think it's it it's calmed me down for the most part;unhappy;0.8274129629135132;unhappy
+843;664.26;666.1;Participant;now it's becoming it it it's becoming routine uh initially it was very difficult;neutral;0.5253304243087769;neutral
+845;673.27;676.98;Participant;when i was five years old <laughter>;happy;0.9670922160148621;happy
+847;684.54;686.54;Participant;oh no when <wh> when you're a kid there's nothing really to um there's nothing to be sad about you're a kid;unhappy;0.45014137029647827;neutral
+849;702.23;705.48;Participant;my best friend um a jerk i don't yeah uh i have a dry i have a dry sense of humor so uh you know;unhappy;0.9278420209884644;unhappy
+851;711.56;715.89;Participant;my best friend would probably uh i think the the banter back and forth is you know usually an insult but you know it's all in love;happy;0.6128318309783936;happy
+853;726.05;733.55;Participant;um i wish i could be taller i wish i could be more inclined to play basketball so i then become go to the n_b_a and be a millionaire i know that's all unrealistic but just answering honestly;unhappy;0.8846664428710938;unhappy
+855;739.98;744.88;Participant;hmm anything i regret haven't we asked asked this before i mean so many don't know where to start;unhappy;0.6907209753990173;unhappy
+857;772.79;778.35;Participant;mm that's a good one wow um wow i don't know i you know that's a good one i'd have <ha> i'd have to think about that i don't i wouldn't wanna answer that uh that's a good one usually you're asked um what you'd what you know how you feel ten twenty years from now looking back i don't know what advice i'd give myself;neutral;0.5568271279335022;neutral
+859;808.705;815.46;Participant;something i really enjoyed um hmm i love um there are several things i like to do um uh you know i uh i enjoy playing basketball i i i love watching it i love watching all sports for that matter what brings me real joy the past few years was um become a hobby of mine is is uh rescuing dogs fostering dogs and finding them them homes uh it's <laughter>;happy;0.9813567399978638;happy
+861;826.44;834.81;Participant;i guess it's become quite a a hobby of mine and uh sometimes i find lost dogs and i'm able to find their owner and sometimes i'm not so when i'll tell you what there's nothing <noth> to find the owner and i just found an owner last week for a small dog i found eh there is not greater feeling 'cause the man told me <laughter> the man told me how his um;happy;0.9061200618743896;happy
+863;838.41;843.46;Participant;how his <hi> how his daughter or was just crying when she left so to be able to give her give him back that was that was cool;happy;0.7735108733177185;happy
+865;860.2;863.1;Participant;i think for somebody that um didn't finish high school going on to college and graduating that's something that i uh i take pride in though i don't show it or speak about it often;happy;0.6587209105491638;happy
+867;868.8;872.31;Participant;<laughter> yeah;happy;0.9307271242141724;happy
+869;872.64;875.3;Participant;you look you look like my friend rachel it's funny;happy;0.8408992290496826;happy
+871;876.74;876.84;Participant;<laughter>;happy;0.9520729780197144;happy
+872;17.07;17.89;Participant; <synch>;neutral;0.47252988815307617;neutral
+874;56.04;56.53;Participant;yes;happy;0.7306618690490723;happy
+876;61.3;62.36;Participant;i'm feel great;happy;0.9833627343177795;happy
+878;68.32;69.14;Participant;i am from saint louis missouri born and raised;neutral;0.5572912693023682;neutral
+880;69.48;69.91;Participant;yes;happy;0.7306618690490723;happy
+882;72.77;76.36;Participant;i've been here a couple times i just recently moved back two months ago;neutral;0.49149879813194275;neutral
+884;80.2;81.89;Participant;saint louis is quite slower;unhappy;0.475420206785202;neutral
+886;85.11;87.38;Participant;uh to take care of a good friend that who who's ill;neutral;0.44836100935935974;neutral
+888;89.95;90.3;Participant;thank you;happy;0.8908419609069824;happy
+890;93.93;96.18;Participant;i jumped right back on the bandwagon;happy;0.8892659544944763;happy
+892;100.58;101.63;Participant;the climate;neutral;0.3758189380168915;neutral
+894;104.04;104.98;Participant;and the restaurants;happy;0.580367386341095;neutral
+896;111.91;112.78;Participant;the dirt and the traffic;unhappy;0.9337770938873291;unhappy
+898;122.13;122.69;Participant;yes i do;happy;0.7742784023284912;happy
+900;129.51;130.79;Participant;uh the road maps following a road map maybe driving myself;neutral;0.5037088394165039;neutral
+902;138.95;142.21;Participant;well we just recently got back from uh colorado went up into the mountains saw the the snow and;happy;0.6028831601142883;happy
+904;143.06;144.6;Participant;enjoyed a little fine dining;happy;0.9460100531578064;happy
+906;150.32;151.39;Participant;in colorado;neutral;0.45046156644821167;neutral
+908;156.72;158.77;Participant;uh actually going um horseback riding through the royal gorge;happy;0.6884607076644897;happy
+910;162.11;162.76;Participant;yes it was;happy;0.7288575172424316;happy
+912;168.09;169.68;Participant;i would be more outgoing;happy;0.5119554400444031;neutral
+914;172.69;174.02;Participant;i'm a people person;happy;0.6106432676315308;happy
+916;189.14;192.02;Participant;<laughter> i listen to jazz music and i also draw;happy;0.8589692115783691;happy
+918;202.52;203.2;Participant;i've probably mastered controlling my temper through age;neutral;0.6334554553031921;neutral
+920;210.6;211.1;Participant;mm it would've been my husband and it was about financial issues;unhappy;0.8684385418891907;unhappy
+922;227.95;228.94;Participant;unsure <un> unsure unstable i don't like loud talking or mm loud emotion i like to sit and methodically and logically talk about things not raise my voice;unhappy;0.9632543921470642;unhappy
+924;260.43;262.58;Participant;hmm most recently with the illness of my friend i wish i would've handled his sister a little differently as far as things that she's wanted me to do that i really needed to tell her otherwise the way they really needed to be done i took her advice where i shouldn't of;unhappy;0.9607731699943542;unhappy
+926;286.16;286.63;Participant;um we he i was engaged to him fifteen years ago and he recently called me i guess about five years ago and told me he was diagnosed with cancer we've always maintained our friendship and i asked my husband if i could go help him in his time of need and i'm here;unhappy;0.568763017654419;neutral
+928;291.17;291.87;Participant;it has been;neutral;0.4727350175380707;neutral
+930;310.56;313.99;Participant;um a lot of things one he's a good friend of mine and his sister moved out here as well two my son wanted to start his career out here three i love the weather and that's all i can think of at the moment <laughter>;happy;0.9078083038330078;happy
+932;316.24;316.58;Participant;mhm;neutral;0.41290226578712463;neutral
+934;326.05;328.86;Participant;uh it would be the the death of my youngest son;unhappy;0.9594667553901672;unhappy
+936;355.03;355.79;Participant;i don't know where to start as far as he was born premature and since he was born so early i had him in five months versus nine the we we made the decision to take him off life support 'cause he wasn't getting any better so that would've been the the hardest decision i made with my husband;unhappy;0.8540785908699036;unhappy
+938;356.75;357.02;Participant;mhm;neutral;0.41290226578712463;neutral
+940;385.51;387.02;Participant;um i really don't wanna erase anything from my memory i've actually um learn and experience and gain knowledge from from things that happen so i'm not <ss> i'm not one to put things erase things out of my mind i categorize them and place them in memories;neutral;0.6134768724441528;neutral
+942;397.27;401.4;Participant;uh it's very close lost my mother at a young age and uh all of us siblings and my father still remain very close;happy;0.7430704832077026;happy
+944;406.6;407.36;Participant;mm my father;happy;0.6290849447250366;happy
+946;427.0;431.32;Participant;oh he's very health conscious very energetic and exercises <e> uh exercises and has a spirituality about him that uh i want to have as well it's a contentment that he that he portrays that i that i would like to have as well;happy;0.9806718230247498;happy
+948;435.84;436.44;Participant;no problem;neutral;0.6561540365219116;neutral
+950;440.77;445.8;Participant;very confused or um skittish i guess would be the word;unhappy;0.9761025309562683;unhappy
+952;457.41;460.88;Participant;lately fine <f> fine except for the fact that my um good friend who i'm helping take care of we just got out of the hospital so it's been a little hectic the last two days;unhappy;0.3441011905670166;neutral
+954;469.29;469.95;Participant;um no not lately;neutral;0.5897052884101868;neutral
+956;475.45;476.33;Participant;no i have not;neutral;0.8081347942352295;neutral
+958;479.04;479.9;Participant;no i have not;neutral;0.8081347942352295;neutral
+960;506.73;509.13;Participant;um i was excited um with good friends in good company i should say and um i had just got back from a concert so it was outside it was enjoyable music i was with good friends we ate well and enjoyed the moment;happy;0.9569131135940552;happy
+962;528.69;531.34;Participant;uh as a giving spiritual normal person i don't know <laughter>;happy;0.7199272513389587;happy
+964;546.65;548.39;Participant;um i can't think of anything that i'd wanna change except for maybe exercise a little more;neutral;0.5875442028045654;neutral
+966;563.52;565.97;Participant;i i can't recall one off hand;neutral;0.8397334218025208;neutral
+968;572.97;573.32;Participant;no;neutral;0.5887434482574463;neutral
+970;587.64;589.7;Participant;to have save more money and to not try and accomplish everything at once;happy;0.48820993304252625;neutral
+972;603.76;604.69;Participant;i started out in cosmetology then i went into um college have some college in mathematics and finance;neutral;0.6244431734085083;neutral
+974;612.32;612.91;Participant;traveling;neutral;0.43642547726631165;neutral
+976;640.31;640.88;Participant;mm i had a lot <lo> i like to i enjoy um good food nice wine and company i just went last night to a very nice italian restaurant and was in the company of good friends and family and we dined and talked and that was fun;happy;0.9291161298751831;happy
+978;650.05;651.33;Participant;most proud of i guess it would be my children;happy;0.9569317102432251;happy
+980;659.25;659.83;Participant;you're welcome;happy;0.8576839566230774;happy
+982;660.93;661.28;Participant;bye bye;neutral;0.49359145760536194;neutral
+983;16.2;17.06;Participant; <synch>;neutral;0.47252988815307617;neutral
+985;60.19;60.8;Participant;yes;happy;0.7306618690490723;happy
+987;66.02;67.09;Participant;i'm good how are you;happy;0.8282681107521057;happy
+989;72.86;75.68;Participant;uh i was born in hawaii but i grew up in colorado;neutral;0.6727114319801331;neutral
+991;79.14;79.33;Participant;yeah yeah;happy;0.5389150977134705;neutral
+993;80.85;83.63;Participant;about seven <s> uh seven to eight years ago;neutral;0.5530189275741577;neutral
